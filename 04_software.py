@@ -1,5 +1,5 @@
 """
-CRESTA LODGE — HOTEL MANAGEMENT SYSTEM
+Savannah Gates Hotel — HOTEL MANAGEMENT SYSTEM
 Daily pricing, booking, and review tool. CLEAR TEXT COLORS.
 Run: streamlit run 04_software.py --server.port 8502
 """
@@ -8,7 +8,7 @@ import streamlit as st
 import pandas as pd
 from datetime import datetime, date, timedelta
 
-st.set_page_config(page_title="Cresta Lodge | System", page_icon="🏨", layout="wide")
+st.set_page_config(page_title="Savannah Gates Hotel | System", page_icon="🏨", layout="wide")
 
 st.markdown("""
 <style>
@@ -39,7 +39,7 @@ bookings, reviews = load()
 
 with st.sidebar:
     st.markdown("## 🏨 Hotel System")
-    st.markdown("*Cresta Lodge Gaborone*")
+    st.markdown("*Savannah Gates Hotel Gaborone*")
     st.markdown("---")
     nav = st.radio("Go to", ["💰 Pricing Calculator","⭐ Review Dashboard","📊 Today's Status"])
     st.markdown("---")
