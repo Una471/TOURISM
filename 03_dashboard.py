@@ -1,5 +1,5 @@
 """
-CRESTA LODGE GABORONE — REVENUE & GUEST SATISFACTION DASHBOARD
+Savannah Gates Hotel GABORONE — REVENUE & GUEST SATISFACTION DASHBOARD
 Management dashboard with CLEAR TEXT COLORS.
 Run: streamlit run 03_dashboard.py --server.port 8501
 """
@@ -9,7 +9,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 
-st.set_page_config(page_title="Cresta Lodge | Dashboard", page_icon="🏨", layout="wide")
+st.set_page_config(page_title="Savannah Gates Hotel | Dashboard", page_icon="🏨", layout="wide")
 
 st.markdown("""
 <style>
@@ -44,7 +44,7 @@ def load():
 bookings, reviews, staffing = load()
 
 with st.sidebar:
-    st.markdown("### 🏨 Cresta Lodge")
+    st.markdown("### 🏨 Savannah Gates Hotel")
     st.markdown("Management Dashboard")
     st.markdown("---")
     page = st.radio("Go to", [
@@ -64,7 +64,7 @@ def wchart(fig, h=340):
     return fig
 
 if page == "📊  Revenue Overview":
-    st.markdown('<div class="topbar"><h1>🏨 Revenue Overview</h1><p>Cresta Lodge Gaborone · Annual Performance 2025</p></div>', unsafe_allow_html=True)
+    st.markdown('<div class="topbar"><h1>🏨 Revenue Overview</h1><p>Savannah Gates Hotel Gaborone · Annual Performance 2025</p></div>', unsafe_allow_html=True)
     
     total_rev = bookings["daily_revenue_bwp"].sum()
     monthly_rev = total_rev / 12
