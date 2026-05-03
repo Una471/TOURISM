@@ -1,0 +1,451 @@
+review_id,date,platform,guest_type,rating,sentiment,comment,issues
+REV-0001,2025-08-08,Expedia,Wedding,1,Negative,Room was smaller than expected,Food
+REV-0002,2025-07-11,Booking.com,Conference,5,Positive,Peaceful and quiet atmosphere,None
+REV-0003,2025-04-08,Booking.com,Business,4,Positive,Very clean rooms and comfortable beds,None
+REV-0004,2025-04-26,Google Reviews,Conference,2,Negative,Noisy neighbors kept us awake,"Cleanliness, WiFi"
+REV-0005,2025-01-24,Google Reviews,Conference,4,Positive,Peaceful and quiet atmosphere,None
+REV-0006,2025-11-02,Google Reviews,Wedding,5,Positive,Very clean rooms and comfortable beds,None
+REV-0007,2025-06-25,Expedia,Conference,5,Positive,Very clean rooms and comfortable beds,None
+REV-0008,2025-07-26,Booking.com,Leisure,3,Neutral,"Average stay, nothing special",None
+REV-0009,2025-04-19,Booking.com,Family,4,Positive,Excellent service and friendly staff,None
+REV-0010,2025-07-07,Booking.com,Wedding,5,Positive,Great location near the city center,None
+REV-0011,2025-10-01,Booking.com,Family,5,Positive,Good value for money,None
+REV-0012,2025-02-25,Booking.com,Business,5,Positive,Delicious breakfast buffet,None
+REV-0013,2025-08-16,Expedia,Business,4,Positive,Delicious breakfast buffet,None
+REV-0014,2025-12-26,TripAdvisor,Leisure,5,Positive,Good value for money,None
+REV-0015,2025-01-05,Google Reviews,Wedding,5,Positive,Good value for money,None
+REV-0016,2025-09-24,Google Reviews,Family,4,Positive,Very clean rooms and comfortable beds,None
+REV-0017,2025-08-03,Booking.com,Family,5,Positive,Excellent service and friendly staff,None
+REV-0018,2025-05-25,Booking.com,Business,4,Positive,Peaceful and quiet atmosphere,None
+REV-0019,2025-04-13,Google Reviews,Family,5,Positive,Great location near the city center,None
+REV-0020,2025-12-27,Expedia,Conference,3,Neutral,Met basic expectations,None
+REV-0021,2025-09-12,TripAdvisor,Wedding,4,Positive,Excellent service and friendly staff,None
+REV-0022,2025-01-07,Booking.com,Business,5,Positive,Good value for money,None
+REV-0023,2025-09-10,TripAdvisor,Business,5,Positive,Excellent service and friendly staff,None
+REV-0024,2025-02-21,Google Reviews,Leisure,4,Positive,Great location near the city center,None
+REV-0025,2025-05-16,Expedia,Business,2,Negative,Air conditioning not working properly,Staff
+REV-0026,2025-07-04,Google Reviews,Wedding,5,Positive,Excellent service and friendly staff,None
+REV-0027,2025-01-24,Booking.com,Leisure,5,Positive,Very clean rooms and comfortable beds,None
+REV-0028,2025-06-18,Google Reviews,Wedding,5,Positive,Great location near the city center,None
+REV-0029,2025-02-17,Google Reviews,Conference,3,Neutral,Okay for the price,None
+REV-0030,2025-07-24,Expedia,Conference,5,Positive,Good value for money,None
+REV-0031,2025-09-02,Expedia,Leisure,2,Negative,Hot water ran out in the shower,Cleanliness
+REV-0032,2025-02-23,Expedia,Family,4,Positive,Peaceful and quiet atmosphere,None
+REV-0033,2025-12-14,Expedia,Leisure,4,Positive,Professional and helpful front desk,None
+REV-0034,2025-07-03,Booking.com,Leisure,4,Positive,Delicious breakfast buffet,None
+REV-0035,2025-02-27,Expedia,Wedding,1,Negative,Breakfast options were limited,"WiFi, Facilities"
+REV-0036,2025-10-23,TripAdvisor,Conference,4,Positive,Good value for money,None
+REV-0037,2025-12-25,Booking.com,Wedding,5,Positive,Very clean rooms and comfortable beds,None
+REV-0038,2025-09-04,Google Reviews,Wedding,3,Neutral,Met basic expectations,None
+REV-0039,2025-11-10,Booking.com,Business,5,Positive,Very clean rooms and comfortable beds,None
+REV-0040,2025-09-16,Expedia,Wedding,5,Positive,Excellent service and friendly staff,None
+REV-0041,2025-09-09,Google Reviews,Leisure,4,Positive,Great location near the city center,None
+REV-0042,2025-01-26,TripAdvisor,Family,5,Positive,Delicious breakfast buffet,None
+REV-0043,2025-05-01,Booking.com,Wedding,4,Positive,Peaceful and quiet atmosphere,None
+REV-0044,2025-08-18,Booking.com,Wedding,4,Positive,Excellent service and friendly staff,None
+REV-0045,2025-09-12,Booking.com,Business,4,Positive,Excellent service and friendly staff,None
+REV-0046,2025-10-13,Booking.com,Business,5,Positive,Peaceful and quiet atmosphere,None
+REV-0047,2025-11-23,Google Reviews,Family,4,Positive,Good value for money,None
+REV-0048,2025-12-10,Expedia,Conference,4,Positive,Excellent service and friendly staff,None
+REV-0049,2025-04-25,Expedia,Conference,4,Positive,Peaceful and quiet atmosphere,None
+REV-0050,2025-11-04,Expedia,Conference,5,Positive,Excellent service and friendly staff,None
+REV-0051,2025-02-19,TripAdvisor,Business,4,Positive,Professional and helpful front desk,None
+REV-0052,2025-11-21,Google Reviews,Family,4,Positive,Good value for money,None
+REV-0053,2025-02-24,Booking.com,Leisure,4,Positive,Professional and helpful front desk,None
+REV-0054,2025-07-29,Booking.com,Conference,4,Positive,Very clean rooms and comfortable beds,None
+REV-0055,2025-03-03,Expedia,Leisure,4,Positive,Professional and helpful front desk,None
+REV-0056,2025-04-08,Google Reviews,Business,5,Positive,Excellent service and friendly staff,None
+REV-0057,2025-11-21,Booking.com,Wedding,4,Positive,Peaceful and quiet atmosphere,None
+REV-0058,2025-09-16,TripAdvisor,Wedding,1,Negative,Hot water ran out in the shower,Facilities
+REV-0059,2025-08-10,Expedia,Family,5,Positive,Very clean rooms and comfortable beds,None
+REV-0060,2025-12-21,TripAdvisor,Leisure,2,Negative,Hot water ran out in the shower,"Facilities, Noise"
+REV-0061,2025-08-03,TripAdvisor,Conference,4,Positive,Great location near the city center,None
+REV-0062,2025-05-31,Expedia,Leisure,3,Neutral,Met basic expectations,None
+REV-0063,2025-12-25,Google Reviews,Family,5,Positive,Good value for money,None
+REV-0064,2025-10-11,TripAdvisor,Leisure,3,Neutral,Met basic expectations,None
+REV-0065,2025-05-29,Google Reviews,Leisure,5,Positive,Good value for money,None
+REV-0066,2025-04-02,Google Reviews,Business,5,Positive,Peaceful and quiet atmosphere,None
+REV-0067,2025-09-03,Expedia,Family,4,Positive,Professional and helpful front desk,None
+REV-0068,2025-08-05,Booking.com,Family,2,Negative,Noisy neighbors kept us awake,WiFi
+REV-0069,2025-12-10,Booking.com,Leisure,3,Neutral,"Average stay, nothing special",None
+REV-0070,2025-05-27,Google Reviews,Leisure,5,Positive,Good value for money,None
+REV-0071,2025-06-01,TripAdvisor,Family,1,Negative,Checkout process took too long,"WiFi, Facilities"
+REV-0072,2025-12-12,TripAdvisor,Family,4,Positive,Peaceful and quiet atmosphere,None
+REV-0073,2025-12-23,Google Reviews,Business,5,Positive,Delicious breakfast buffet,None
+REV-0074,2025-08-02,Google Reviews,Family,2,Negative,Hot water ran out in the shower,"Cleanliness, Facilities"
+REV-0075,2025-08-15,TripAdvisor,Conference,5,Positive,Peaceful and quiet atmosphere,None
+REV-0076,2025-11-05,TripAdvisor,Leisure,4,Positive,Very clean rooms and comfortable beds,None
+REV-0077,2025-12-16,Booking.com,Leisure,5,Positive,Good value for money,None
+REV-0078,2025-09-21,Booking.com,Wedding,1,Negative,Breakfast options were limited,"Cleanliness, Food"
+REV-0079,2025-10-27,Google Reviews,Business,4,Positive,Good value for money,None
+REV-0080,2025-03-21,Booking.com,Leisure,5,Positive,Peaceful and quiet atmosphere,None
+REV-0081,2025-01-27,Google Reviews,Wedding,5,Positive,Peaceful and quiet atmosphere,None
+REV-0082,2025-07-03,Booking.com,Conference,4,Positive,Very clean rooms and comfortable beds,None
+REV-0083,2025-09-24,Booking.com,Family,3,Neutral,Met basic expectations,None
+REV-0084,2025-10-02,Expedia,Business,4,Positive,Very clean rooms and comfortable beds,None
+REV-0085,2025-12-06,Google Reviews,Conference,4,Positive,Very clean rooms and comfortable beds,None
+REV-0086,2025-11-13,Expedia,Family,5,Positive,Good value for money,None
+REV-0087,2025-01-05,Booking.com,Conference,4,Positive,Good value for money,None
+REV-0088,2025-11-11,TripAdvisor,Business,5,Positive,Great location near the city center,None
+REV-0089,2025-07-15,Booking.com,Wedding,3,Neutral,Met basic expectations,None
+REV-0090,2025-05-25,Booking.com,Family,5,Positive,Great location near the city center,None
+REV-0091,2025-09-21,Expedia,Wedding,1,Negative,Hot water ran out in the shower,Staff
+REV-0092,2025-09-21,Booking.com,Business,3,Neutral,Met basic expectations,None
+REV-0093,2025-10-01,Booking.com,Business,3,Neutral,Met basic expectations,None
+REV-0094,2025-04-20,Expedia,Business,3,Neutral,Met basic expectations,None
+REV-0095,2025-08-11,Booking.com,Leisure,1,Negative,Hot water ran out in the shower,"WiFi, Food"
+REV-0096,2025-02-07,Booking.com,Leisure,5,Positive,Peaceful and quiet atmosphere,None
+REV-0097,2025-02-06,TripAdvisor,Conference,4,Positive,Delicious breakfast buffet,None
+REV-0098,2025-11-19,Expedia,Wedding,4,Positive,Delicious breakfast buffet,None
+REV-0099,2025-12-11,Booking.com,Family,1,Negative,Hot water ran out in the shower,Food
+REV-0100,2025-10-27,Booking.com,Business,4,Positive,Peaceful and quiet atmosphere,None
+REV-0101,2025-02-24,Google Reviews,Conference,4,Positive,Great location near the city center,None
+REV-0102,2025-08-13,Expedia,Wedding,5,Positive,Excellent service and friendly staff,None
+REV-0103,2025-08-31,TripAdvisor,Family,3,Neutral,Met basic expectations,None
+REV-0104,2025-07-20,Google Reviews,Leisure,4,Positive,Professional and helpful front desk,None
+REV-0105,2025-11-28,Google Reviews,Business,4,Positive,Peaceful and quiet atmosphere,None
+REV-0106,2025-03-14,Booking.com,Business,1,Negative,Room was smaller than expected,"Facilities, Food"
+REV-0107,2025-02-13,Google Reviews,Leisure,5,Positive,Good value for money,None
+REV-0108,2025-06-26,TripAdvisor,Wedding,5,Positive,Professional and helpful front desk,None
+REV-0109,2025-09-20,TripAdvisor,Leisure,3,Neutral,Met basic expectations,None
+REV-0110,2025-05-10,TripAdvisor,Business,3,Neutral,Met basic expectations,None
+REV-0111,2025-01-28,Expedia,Family,2,Negative,Hot water ran out in the shower,Staff
+REV-0112,2025-02-20,TripAdvisor,Family,4,Positive,Great location near the city center,None
+REV-0113,2025-07-02,TripAdvisor,Leisure,2,Negative,Room was smaller than expected,Cleanliness
+REV-0114,2025-06-12,Expedia,Wedding,4,Positive,Good value for money,None
+REV-0115,2025-06-06,TripAdvisor,Family,4,Positive,Professional and helpful front desk,None
+REV-0116,2025-06-11,Expedia,Leisure,1,Negative,Air conditioning not working properly,Food
+REV-0117,2025-11-25,Expedia,Conference,5,Positive,Very clean rooms and comfortable beds,None
+REV-0118,2025-12-14,Google Reviews,Wedding,4,Positive,Great location near the city center,None
+REV-0119,2025-06-06,Expedia,Family,2,Negative,Hot water ran out in the shower,Staff
+REV-0120,2025-03-13,TripAdvisor,Conference,5,Positive,Good value for money,None
+REV-0121,2025-02-09,Booking.com,Business,5,Positive,Good value for money,None
+REV-0122,2025-01-16,Expedia,Family,3,Neutral,"Average stay, nothing special",None
+REV-0123,2025-10-10,Google Reviews,Family,5,Positive,Peaceful and quiet atmosphere,None
+REV-0124,2025-08-30,TripAdvisor,Conference,4,Positive,Professional and helpful front desk,None
+REV-0125,2025-10-29,Google Reviews,Leisure,4,Positive,Peaceful and quiet atmosphere,None
+REV-0126,2025-02-16,Expedia,Conference,4,Positive,Good value for money,None
+REV-0127,2025-05-03,TripAdvisor,Family,3,Neutral,"Average stay, nothing special",None
+REV-0128,2025-04-02,TripAdvisor,Wedding,5,Positive,Excellent service and friendly staff,None
+REV-0129,2025-04-23,Expedia,Leisure,2,Negative,Breakfast options were limited,WiFi
+REV-0130,2025-12-09,TripAdvisor,Family,5,Positive,Great location near the city center,None
+REV-0131,2025-07-18,Expedia,Wedding,5,Positive,Excellent service and friendly staff,None
+REV-0132,2025-11-29,Google Reviews,Business,5,Positive,Peaceful and quiet atmosphere,None
+REV-0133,2025-11-21,Google Reviews,Conference,4,Positive,Peaceful and quiet atmosphere,None
+REV-0134,2025-03-31,Expedia,Wedding,4,Positive,Good value for money,None
+REV-0135,2025-02-09,Google Reviews,Wedding,5,Positive,Very clean rooms and comfortable beds,None
+REV-0136,2025-09-22,Expedia,Conference,5,Positive,Great location near the city center,None
+REV-0137,2025-09-07,Expedia,Family,1,Negative,Air conditioning not working properly,"Cleanliness, Food"
+REV-0138,2025-02-09,Google Reviews,Leisure,3,Neutral,"Average stay, nothing special",None
+REV-0139,2025-07-05,Booking.com,Leisure,4,Positive,Great location near the city center,None
+REV-0140,2025-02-28,Expedia,Wedding,4,Positive,Peaceful and quiet atmosphere,None
+REV-0141,2025-03-24,Expedia,Business,3,Neutral,"Average stay, nothing special",None
+REV-0142,2025-10-21,TripAdvisor,Leisure,4,Positive,Excellent service and friendly staff,None
+REV-0143,2025-10-21,TripAdvisor,Business,3,Neutral,"Average stay, nothing special",None
+REV-0144,2025-09-22,Expedia,Family,5,Positive,Good value for money,None
+REV-0145,2025-01-10,Google Reviews,Business,3,Neutral,Met basic expectations,None
+REV-0146,2025-08-30,Expedia,Leisure,3,Neutral,Okay for the price,None
+REV-0147,2025-11-04,TripAdvisor,Family,5,Positive,Very clean rooms and comfortable beds,None
+REV-0148,2025-11-16,Google Reviews,Leisure,5,Positive,Great location near the city center,None
+REV-0149,2025-08-21,Booking.com,Leisure,4,Positive,Very clean rooms and comfortable beds,None
+REV-0150,2025-02-25,Booking.com,Leisure,4,Positive,Peaceful and quiet atmosphere,None
+REV-0151,2025-12-17,Expedia,Leisure,4,Positive,Very clean rooms and comfortable beds,None
+REV-0152,2025-09-01,Booking.com,Family,4,Positive,Excellent service and friendly staff,None
+REV-0153,2025-02-17,Expedia,Leisure,5,Positive,Peaceful and quiet atmosphere,None
+REV-0154,2025-01-01,Expedia,Family,4,Positive,Professional and helpful front desk,None
+REV-0155,2025-01-23,Expedia,Leisure,5,Positive,Delicious breakfast buffet,None
+REV-0156,2025-07-15,Google Reviews,Family,5,Positive,Professional and helpful front desk,None
+REV-0157,2025-12-23,Booking.com,Wedding,3,Neutral,Okay for the price,None
+REV-0158,2025-04-30,Booking.com,Conference,4,Positive,Peaceful and quiet atmosphere,None
+REV-0159,2025-07-29,Google Reviews,Leisure,1,Negative,Hot water ran out in the shower,Facilities
+REV-0160,2025-09-25,Booking.com,Family,1,Negative,Hot water ran out in the shower,Food
+REV-0161,2025-06-11,Expedia,Conference,2,Negative,Noisy neighbors kept us awake,"Staff, Facilities"
+REV-0162,2025-08-05,Google Reviews,Family,3,Neutral,Met basic expectations,None
+REV-0163,2025-07-23,TripAdvisor,Wedding,4,Positive,Peaceful and quiet atmosphere,None
+REV-0164,2025-09-05,TripAdvisor,Conference,4,Positive,Delicious breakfast buffet,None
+REV-0165,2025-05-10,Google Reviews,Family,4,Positive,Good value for money,None
+REV-0166,2025-07-23,TripAdvisor,Business,5,Positive,Delicious breakfast buffet,None
+REV-0167,2025-12-25,TripAdvisor,Business,3,Neutral,Okay for the price,None
+REV-0168,2025-06-23,Booking.com,Leisure,4,Positive,Good value for money,None
+REV-0169,2025-01-03,Booking.com,Leisure,4,Positive,Peaceful and quiet atmosphere,None
+REV-0170,2025-08-11,Booking.com,Business,3,Neutral,Okay for the price,None
+REV-0171,2025-02-10,Booking.com,Wedding,5,Positive,Delicious breakfast buffet,None
+REV-0172,2025-11-11,Google Reviews,Family,2,Negative,Checkout process took too long,Food
+REV-0173,2025-09-11,Expedia,Business,3,Neutral,Met basic expectations,None
+REV-0174,2025-09-23,Google Reviews,Leisure,1,Negative,Room was smaller than expected,Facilities
+REV-0175,2025-03-28,Booking.com,Conference,3,Neutral,"Average stay, nothing special",None
+REV-0176,2025-03-22,Booking.com,Conference,5,Positive,Great location near the city center,None
+REV-0177,2025-12-09,Expedia,Wedding,4,Positive,Peaceful and quiet atmosphere,None
+REV-0178,2025-01-08,Booking.com,Business,4,Positive,Good value for money,None
+REV-0179,2025-10-14,Google Reviews,Conference,5,Positive,Great location near the city center,None
+REV-0180,2025-04-26,TripAdvisor,Wedding,5,Positive,Peaceful and quiet atmosphere,None
+REV-0181,2025-01-03,Google Reviews,Leisure,4,Positive,Excellent service and friendly staff,None
+REV-0182,2025-10-14,Booking.com,Family,4,Positive,Excellent service and friendly staff,None
+REV-0183,2025-09-20,Google Reviews,Family,5,Positive,Peaceful and quiet atmosphere,None
+REV-0184,2025-05-09,Expedia,Wedding,4,Positive,Professional and helpful front desk,None
+REV-0185,2025-05-05,Google Reviews,Wedding,5,Positive,Peaceful and quiet atmosphere,None
+REV-0186,2025-01-15,Expedia,Business,3,Neutral,Okay for the price,None
+REV-0187,2025-11-21,TripAdvisor,Leisure,5,Positive,Delicious breakfast buffet,None
+REV-0188,2025-06-30,Booking.com,Conference,3,Neutral,"Average stay, nothing special",None
+REV-0189,2025-07-24,Google Reviews,Business,4,Positive,Very clean rooms and comfortable beds,None
+REV-0190,2025-09-01,Google Reviews,Conference,3,Neutral,Met basic expectations,None
+REV-0191,2025-05-18,TripAdvisor,Leisure,4,Positive,Very clean rooms and comfortable beds,None
+REV-0192,2025-05-01,TripAdvisor,Conference,3,Neutral,"Average stay, nothing special",None
+REV-0193,2025-05-08,Google Reviews,Leisure,5,Positive,Excellent service and friendly staff,None
+REV-0194,2025-02-10,Expedia,Family,1,Negative,Checkout process took too long,Noise
+REV-0195,2025-07-10,Google Reviews,Wedding,5,Positive,Peaceful and quiet atmosphere,None
+REV-0196,2025-05-21,Expedia,Leisure,5,Positive,Peaceful and quiet atmosphere,None
+REV-0197,2025-05-24,Expedia,Leisure,5,Positive,Very clean rooms and comfortable beds,None
+REV-0198,2025-01-28,Expedia,Wedding,5,Positive,Excellent service and friendly staff,None
+REV-0199,2025-09-15,Google Reviews,Wedding,5,Positive,Professional and helpful front desk,None
+REV-0200,2025-03-31,Expedia,Business,5,Positive,Delicious breakfast buffet,None
+REV-0201,2025-06-11,Booking.com,Business,5,Positive,Delicious breakfast buffet,None
+REV-0202,2025-10-25,Booking.com,Conference,4,Positive,Professional and helpful front desk,None
+REV-0203,2025-05-13,TripAdvisor,Family,3,Neutral,Okay for the price,None
+REV-0204,2025-08-30,Google Reviews,Conference,3,Neutral,Okay for the price,None
+REV-0205,2025-04-18,Expedia,Conference,4,Positive,Delicious breakfast buffet,None
+REV-0206,2025-05-24,Expedia,Leisure,4,Positive,Peaceful and quiet atmosphere,None
+REV-0207,2025-12-18,TripAdvisor,Business,5,Positive,Professional and helpful front desk,None
+REV-0208,2025-05-01,Expedia,Wedding,3,Neutral,Met basic expectations,None
+REV-0209,2025-03-18,Expedia,Business,3,Neutral,Okay for the price,None
+REV-0210,2025-03-10,Google Reviews,Wedding,4,Positive,Peaceful and quiet atmosphere,None
+REV-0211,2025-10-18,Booking.com,Wedding,2,Negative,Air conditioning not working properly,Cleanliness
+REV-0212,2025-05-11,Expedia,Business,4,Positive,Great location near the city center,None
+REV-0213,2025-05-14,Google Reviews,Conference,4,Positive,Professional and helpful front desk,None
+REV-0214,2025-05-12,Google Reviews,Business,4,Positive,Great location near the city center,None
+REV-0215,2025-12-14,TripAdvisor,Family,4,Positive,Good value for money,None
+REV-0216,2025-10-03,TripAdvisor,Conference,4,Positive,Good value for money,None
+REV-0217,2025-09-19,Expedia,Wedding,5,Positive,Delicious breakfast buffet,None
+REV-0218,2025-11-11,Google Reviews,Wedding,5,Positive,Very clean rooms and comfortable beds,None
+REV-0219,2025-03-27,Google Reviews,Wedding,5,Positive,Peaceful and quiet atmosphere,None
+REV-0220,2025-07-27,Booking.com,Business,3,Neutral,"Average stay, nothing special",None
+REV-0221,2025-06-10,Google Reviews,Conference,5,Positive,Peaceful and quiet atmosphere,None
+REV-0222,2025-11-27,Expedia,Conference,5,Positive,Professional and helpful front desk,None
+REV-0223,2025-07-05,Expedia,Wedding,3,Neutral,"Average stay, nothing special",None
+REV-0224,2025-03-06,TripAdvisor,Conference,5,Positive,Good value for money,None
+REV-0225,2025-02-10,TripAdvisor,Leisure,4,Positive,Excellent service and friendly staff,None
+REV-0226,2025-02-02,Expedia,Family,2,Negative,Checkout process took too long,"Facilities, WiFi"
+REV-0227,2025-02-23,Google Reviews,Family,3,Neutral,Met basic expectations,None
+REV-0228,2025-07-19,Google Reviews,Leisure,3,Neutral,Okay for the price,None
+REV-0229,2025-08-15,TripAdvisor,Leisure,4,Positive,Very clean rooms and comfortable beds,None
+REV-0230,2025-01-15,Booking.com,Conference,5,Positive,Great location near the city center,None
+REV-0231,2025-09-01,Expedia,Family,5,Positive,Peaceful and quiet atmosphere,None
+REV-0232,2025-08-16,TripAdvisor,Family,3,Neutral,Met basic expectations,None
+REV-0233,2025-08-22,Expedia,Family,5,Positive,Peaceful and quiet atmosphere,None
+REV-0234,2025-06-08,Google Reviews,Wedding,4,Positive,Professional and helpful front desk,None
+REV-0235,2025-02-15,Expedia,Conference,4,Positive,Great location near the city center,None
+REV-0236,2025-03-21,Google Reviews,Business,1,Negative,Checkout process took too long,Staff
+REV-0237,2025-05-27,Expedia,Family,1,Negative,Noisy neighbors kept us awake,"Staff, WiFi"
+REV-0238,2025-08-09,Google Reviews,Family,3,Neutral,"Average stay, nothing special",None
+REV-0239,2025-10-08,Google Reviews,Leisure,4,Positive,Peaceful and quiet atmosphere,None
+REV-0240,2025-08-12,Expedia,Leisure,3,Neutral,Met basic expectations,None
+REV-0241,2025-11-27,Expedia,Wedding,3,Neutral,"Average stay, nothing special",None
+REV-0242,2025-08-05,TripAdvisor,Family,5,Positive,Peaceful and quiet atmosphere,None
+REV-0243,2025-12-22,Google Reviews,Conference,5,Positive,Peaceful and quiet atmosphere,None
+REV-0244,2025-05-18,Expedia,Leisure,5,Positive,Very clean rooms and comfortable beds,None
+REV-0245,2025-03-11,Google Reviews,Business,5,Positive,Peaceful and quiet atmosphere,None
+REV-0246,2025-08-20,Google Reviews,Family,4,Positive,Great location near the city center,None
+REV-0247,2025-01-10,TripAdvisor,Business,5,Positive,Excellent service and friendly staff,None
+REV-0248,2025-04-06,Booking.com,Conference,3,Neutral,Met basic expectations,None
+REV-0249,2025-08-13,Booking.com,Leisure,2,Negative,WiFi was very slow,"Cleanliness, Staff"
+REV-0250,2025-08-04,Google Reviews,Wedding,5,Positive,Delicious breakfast buffet,None
+REV-0251,2025-12-23,Booking.com,Conference,2,Negative,Checkout process took too long,WiFi
+REV-0252,2025-05-17,Expedia,Business,4,Positive,Very clean rooms and comfortable beds,None
+REV-0253,2025-04-09,Google Reviews,Wedding,5,Positive,Excellent service and friendly staff,None
+REV-0254,2025-05-08,Expedia,Wedding,3,Neutral,"Average stay, nothing special",None
+REV-0255,2025-04-12,Expedia,Business,4,Positive,Very clean rooms and comfortable beds,None
+REV-0256,2025-08-31,Expedia,Conference,5,Positive,Very clean rooms and comfortable beds,None
+REV-0257,2025-11-19,Booking.com,Family,4,Positive,Great location near the city center,None
+REV-0258,2025-09-04,Google Reviews,Leisure,4,Positive,Excellent service and friendly staff,None
+REV-0259,2025-12-08,TripAdvisor,Business,3,Neutral,Okay for the price,None
+REV-0260,2025-06-16,Booking.com,Leisure,5,Positive,Peaceful and quiet atmosphere,None
+REV-0261,2025-03-03,Expedia,Leisure,1,Negative,WiFi was very slow,"Food, Facilities"
+REV-0262,2025-03-21,Google Reviews,Business,3,Neutral,Okay for the price,None
+REV-0263,2025-02-16,Google Reviews,Business,2,Negative,Hot water ran out in the shower,Food
+REV-0264,2025-10-02,Booking.com,Leisure,4,Positive,Great location near the city center,None
+REV-0265,2025-10-13,Google Reviews,Wedding,5,Positive,Excellent service and friendly staff,None
+REV-0266,2025-12-19,Expedia,Conference,5,Positive,Great location near the city center,None
+REV-0267,2025-01-21,Expedia,Wedding,4,Positive,Peaceful and quiet atmosphere,None
+REV-0268,2025-12-23,Expedia,Leisure,4,Positive,Peaceful and quiet atmosphere,None
+REV-0269,2025-06-28,Google Reviews,Wedding,3,Neutral,Met basic expectations,None
+REV-0270,2025-10-11,TripAdvisor,Business,4,Positive,Delicious breakfast buffet,None
+REV-0271,2025-06-01,Google Reviews,Family,4,Positive,Excellent service and friendly staff,None
+REV-0272,2025-11-23,Expedia,Leisure,5,Positive,Peaceful and quiet atmosphere,None
+REV-0273,2025-07-06,TripAdvisor,Conference,5,Positive,Good value for money,None
+REV-0274,2025-10-03,Expedia,Leisure,4,Positive,Delicious breakfast buffet,None
+REV-0275,2025-10-10,TripAdvisor,Family,4,Positive,Delicious breakfast buffet,None
+REV-0276,2025-11-25,Google Reviews,Business,2,Negative,Hot water ran out in the shower,WiFi
+REV-0277,2025-03-08,TripAdvisor,Business,3,Neutral,Okay for the price,None
+REV-0278,2025-04-09,Booking.com,Business,4,Positive,Professional and helpful front desk,None
+REV-0279,2025-07-18,Expedia,Family,4,Positive,Peaceful and quiet atmosphere,None
+REV-0280,2025-05-12,Booking.com,Conference,3,Neutral,Met basic expectations,None
+REV-0281,2025-02-06,Booking.com,Leisure,5,Positive,Professional and helpful front desk,None
+REV-0282,2025-02-10,Expedia,Business,4,Positive,Good value for money,None
+REV-0283,2025-08-01,Google Reviews,Business,5,Positive,Great location near the city center,None
+REV-0284,2025-09-28,Booking.com,Business,5,Positive,Excellent service and friendly staff,None
+REV-0285,2025-04-21,Booking.com,Business,5,Positive,Peaceful and quiet atmosphere,None
+REV-0286,2025-07-17,TripAdvisor,Leisure,4,Positive,Very clean rooms and comfortable beds,None
+REV-0287,2025-10-19,TripAdvisor,Family,5,Positive,Delicious breakfast buffet,None
+REV-0288,2025-02-24,Google Reviews,Wedding,5,Positive,Delicious breakfast buffet,None
+REV-0289,2025-02-23,TripAdvisor,Leisure,4,Positive,Peaceful and quiet atmosphere,None
+REV-0290,2025-06-22,TripAdvisor,Family,5,Positive,Delicious breakfast buffet,None
+REV-0291,2025-06-30,Google Reviews,Family,5,Positive,Great location near the city center,None
+REV-0292,2025-07-10,Expedia,Wedding,5,Positive,Great location near the city center,None
+REV-0293,2025-11-08,TripAdvisor,Family,4,Positive,Delicious breakfast buffet,None
+REV-0294,2025-10-09,Google Reviews,Conference,5,Positive,Delicious breakfast buffet,None
+REV-0295,2025-07-23,Booking.com,Business,5,Positive,Peaceful and quiet atmosphere,None
+REV-0296,2025-01-09,TripAdvisor,Conference,1,Negative,Air conditioning not working properly,Staff
+REV-0297,2025-01-12,Google Reviews,Family,4,Positive,Peaceful and quiet atmosphere,None
+REV-0298,2025-10-20,TripAdvisor,Business,1,Negative,Breakfast options were limited,Cleanliness
+REV-0299,2025-05-16,Google Reviews,Family,3,Neutral,Okay for the price,None
+REV-0300,2025-06-03,Booking.com,Family,4,Positive,Very clean rooms and comfortable beds,None
+REV-0301,2025-02-09,Google Reviews,Wedding,3,Neutral,Met basic expectations,None
+REV-0302,2025-12-26,Booking.com,Family,5,Positive,Excellent service and friendly staff,None
+REV-0303,2025-10-23,Expedia,Business,5,Positive,Professional and helpful front desk,None
+REV-0304,2025-06-21,Google Reviews,Wedding,4,Positive,Professional and helpful front desk,None
+REV-0305,2025-03-03,TripAdvisor,Family,5,Positive,Good value for money,None
+REV-0306,2025-11-20,Expedia,Business,4,Positive,Excellent service and friendly staff,None
+REV-0307,2025-06-13,TripAdvisor,Conference,4,Positive,Very clean rooms and comfortable beds,None
+REV-0308,2025-03-20,Booking.com,Wedding,5,Positive,Professional and helpful front desk,None
+REV-0309,2025-11-01,Booking.com,Leisure,4,Positive,Professional and helpful front desk,None
+REV-0310,2025-07-21,TripAdvisor,Leisure,4,Positive,Delicious breakfast buffet,None
+REV-0311,2025-10-20,Booking.com,Family,4,Positive,Excellent service and friendly staff,None
+REV-0312,2025-07-24,Expedia,Leisure,5,Positive,Delicious breakfast buffet,None
+REV-0313,2025-10-14,TripAdvisor,Wedding,4,Positive,Peaceful and quiet atmosphere,None
+REV-0314,2025-04-11,TripAdvisor,Leisure,2,Negative,Checkout process took too long,"Staff, Facilities"
+REV-0315,2025-02-15,Booking.com,Wedding,4,Positive,Great location near the city center,None
+REV-0316,2025-04-08,Google Reviews,Conference,4,Positive,Excellent service and friendly staff,None
+REV-0317,2025-06-06,TripAdvisor,Conference,4,Positive,Professional and helpful front desk,None
+REV-0318,2025-08-15,TripAdvisor,Wedding,1,Negative,Checkout process took too long,Cleanliness
+REV-0319,2025-12-17,Google Reviews,Leisure,5,Positive,Professional and helpful front desk,None
+REV-0320,2025-02-13,Booking.com,Business,3,Neutral,Met basic expectations,None
+REV-0321,2025-03-17,Google Reviews,Business,4,Positive,Professional and helpful front desk,None
+REV-0322,2025-02-26,Google Reviews,Wedding,4,Positive,Great location near the city center,None
+REV-0323,2025-04-18,TripAdvisor,Leisure,4,Positive,Professional and helpful front desk,None
+REV-0324,2025-05-13,Expedia,Family,5,Positive,Very clean rooms and comfortable beds,None
+REV-0325,2025-12-22,Booking.com,Wedding,4,Positive,Good value for money,None
+REV-0326,2025-09-27,Booking.com,Conference,3,Neutral,Okay for the price,None
+REV-0327,2025-04-13,Google Reviews,Business,4,Positive,Excellent service and friendly staff,None
+REV-0328,2025-02-04,Expedia,Conference,5,Positive,Good value for money,None
+REV-0329,2025-07-04,Booking.com,Business,4,Positive,Good value for money,None
+REV-0330,2025-07-17,TripAdvisor,Wedding,4,Positive,Good value for money,None
+REV-0331,2025-02-20,Google Reviews,Wedding,5,Positive,Peaceful and quiet atmosphere,None
+REV-0332,2025-02-15,TripAdvisor,Leisure,4,Positive,Delicious breakfast buffet,None
+REV-0333,2025-10-15,Booking.com,Business,3,Neutral,Met basic expectations,None
+REV-0334,2025-06-06,Google Reviews,Wedding,4,Positive,Very clean rooms and comfortable beds,None
+REV-0335,2025-01-10,Google Reviews,Conference,4,Positive,Great location near the city center,None
+REV-0336,2025-05-01,Google Reviews,Business,4,Positive,Delicious breakfast buffet,None
+REV-0337,2025-01-16,Google Reviews,Leisure,3,Neutral,Okay for the price,None
+REV-0338,2025-12-03,TripAdvisor,Business,5,Positive,Peaceful and quiet atmosphere,None
+REV-0339,2025-12-14,TripAdvisor,Wedding,3,Neutral,"Average stay, nothing special",None
+REV-0340,2025-08-07,Google Reviews,Family,4,Positive,Peaceful and quiet atmosphere,None
+REV-0341,2025-03-09,TripAdvisor,Leisure,4,Positive,Good value for money,None
+REV-0342,2025-04-14,TripAdvisor,Conference,5,Positive,Peaceful and quiet atmosphere,None
+REV-0343,2025-03-11,Expedia,Leisure,5,Positive,Peaceful and quiet atmosphere,None
+REV-0344,2025-03-22,Google Reviews,Business,4,Positive,Good value for money,None
+REV-0345,2025-03-02,TripAdvisor,Conference,5,Positive,Very clean rooms and comfortable beds,None
+REV-0346,2025-01-16,Google Reviews,Wedding,5,Positive,Great location near the city center,None
+REV-0347,2025-08-15,Google Reviews,Leisure,5,Positive,Excellent service and friendly staff,None
+REV-0348,2025-03-09,TripAdvisor,Business,5,Positive,Peaceful and quiet atmosphere,None
+REV-0349,2025-11-12,Google Reviews,Family,4,Positive,Very clean rooms and comfortable beds,None
+REV-0350,2025-11-02,TripAdvisor,Leisure,5,Positive,Great location near the city center,None
+REV-0351,2025-02-10,Expedia,Leisure,4,Positive,Peaceful and quiet atmosphere,None
+REV-0352,2025-08-29,Google Reviews,Leisure,5,Positive,Delicious breakfast buffet,None
+REV-0353,2025-08-31,TripAdvisor,Leisure,3,Neutral,"Average stay, nothing special",None
+REV-0354,2025-07-29,Booking.com,Conference,5,Positive,Very clean rooms and comfortable beds,None
+REV-0355,2025-12-10,TripAdvisor,Leisure,2,Negative,Noisy neighbors kept us awake,"Food, Staff"
+REV-0356,2025-08-23,TripAdvisor,Wedding,4,Positive,Excellent service and friendly staff,None
+REV-0357,2025-11-08,Expedia,Conference,4,Positive,Good value for money,None
+REV-0358,2025-10-20,Booking.com,Family,2,Negative,Noisy neighbors kept us awake,Cleanliness
+REV-0359,2025-09-23,Expedia,Business,4,Positive,Peaceful and quiet atmosphere,None
+REV-0360,2025-11-19,Booking.com,Leisure,4,Positive,Delicious breakfast buffet,None
+REV-0361,2025-06-05,Google Reviews,Wedding,3,Neutral,Okay for the price,None
+REV-0362,2025-11-10,Booking.com,Family,5,Positive,Delicious breakfast buffet,None
+REV-0363,2025-11-27,Expedia,Business,5,Positive,Excellent service and friendly staff,None
+REV-0364,2025-04-03,TripAdvisor,Wedding,4,Positive,Delicious breakfast buffet,None
+REV-0365,2025-01-13,TripAdvisor,Wedding,4,Positive,Good value for money,None
+REV-0366,2025-04-14,Expedia,Business,3,Neutral,Met basic expectations,None
+REV-0367,2025-11-29,TripAdvisor,Business,2,Negative,Hot water ran out in the shower,"Food, Staff"
+REV-0368,2025-02-13,Expedia,Family,4,Positive,Very clean rooms and comfortable beds,None
+REV-0369,2025-07-13,Expedia,Business,5,Positive,Great location near the city center,None
+REV-0370,2025-10-17,TripAdvisor,Leisure,5,Positive,Very clean rooms and comfortable beds,None
+REV-0371,2025-12-31,Booking.com,Wedding,4,Positive,Good value for money,None
+REV-0372,2025-08-17,Google Reviews,Leisure,2,Negative,Air conditioning not working properly,WiFi
+REV-0373,2025-11-15,Google Reviews,Business,4,Positive,Professional and helpful front desk,None
+REV-0374,2025-09-13,Booking.com,Family,5,Positive,Very clean rooms and comfortable beds,None
+REV-0375,2025-04-22,Expedia,Wedding,4,Positive,Excellent service and friendly staff,None
+REV-0376,2025-11-04,Booking.com,Leisure,5,Positive,Great location near the city center,None
+REV-0377,2025-11-14,TripAdvisor,Business,3,Neutral,"Average stay, nothing special",None
+REV-0378,2025-12-01,Google Reviews,Business,3,Neutral,"Average stay, nothing special",None
+REV-0379,2025-12-08,Google Reviews,Conference,5,Positive,Excellent service and friendly staff,None
+REV-0380,2025-02-25,Expedia,Leisure,3,Neutral,Okay for the price,None
+REV-0381,2025-11-09,TripAdvisor,Wedding,5,Positive,Great location near the city center,None
+REV-0382,2025-01-19,Booking.com,Conference,4,Positive,Delicious breakfast buffet,None
+REV-0383,2025-02-04,Expedia,Family,2,Negative,Noisy neighbors kept us awake,WiFi
+REV-0384,2025-12-22,Google Reviews,Conference,4,Positive,Peaceful and quiet atmosphere,None
+REV-0385,2025-04-18,TripAdvisor,Family,2,Negative,Room was smaller than expected,Noise
+REV-0386,2025-12-19,Google Reviews,Wedding,4,Positive,Great location near the city center,None
+REV-0387,2025-05-13,Google Reviews,Leisure,4,Positive,Delicious breakfast buffet,None
+REV-0388,2025-09-24,Expedia,Wedding,5,Positive,Peaceful and quiet atmosphere,None
+REV-0389,2025-04-30,Google Reviews,Leisure,1,Negative,WiFi was very slow,"Food, WiFi"
+REV-0390,2025-04-17,Expedia,Wedding,1,Negative,Breakfast options were limited,WiFi
+REV-0391,2025-11-24,TripAdvisor,Conference,3,Neutral,"Average stay, nothing special",None
+REV-0392,2025-06-07,Google Reviews,Family,4,Positive,Professional and helpful front desk,None
+REV-0393,2025-01-04,Booking.com,Conference,4,Positive,Good value for money,None
+REV-0394,2025-10-19,Booking.com,Leisure,3,Neutral,Okay for the price,None
+REV-0395,2025-12-11,Expedia,Wedding,5,Positive,Good value for money,None
+REV-0396,2025-03-11,Expedia,Leisure,4,Positive,Professional and helpful front desk,None
+REV-0397,2025-10-02,Google Reviews,Wedding,5,Positive,Delicious breakfast buffet,None
+REV-0398,2025-01-29,Google Reviews,Family,5,Positive,Great location near the city center,None
+REV-0399,2025-10-12,Booking.com,Leisure,4,Positive,Great location near the city center,None
+REV-0400,2025-07-01,Booking.com,Leisure,4,Positive,Excellent service and friendly staff,None
+REV-0401,2025-06-23,Expedia,Family,5,Positive,Peaceful and quiet atmosphere,None
+REV-0402,2025-11-07,Expedia,Leisure,4,Positive,Professional and helpful front desk,None
+REV-0403,2025-06-07,Google Reviews,Business,3,Neutral,"Average stay, nothing special",None
+REV-0404,2025-09-12,TripAdvisor,Conference,4,Positive,Great location near the city center,None
+REV-0405,2025-04-21,Google Reviews,Leisure,2,Negative,Checkout process took too long,Cleanliness
+REV-0406,2025-02-17,Expedia,Family,1,Negative,Noisy neighbors kept us awake,Cleanliness
+REV-0407,2025-06-24,Expedia,Family,4,Positive,Great location near the city center,None
+REV-0408,2025-03-15,Booking.com,Family,5,Positive,Very clean rooms and comfortable beds,None
+REV-0409,2025-04-16,Booking.com,Wedding,4,Positive,Professional and helpful front desk,None
+REV-0410,2025-09-25,Booking.com,Business,4,Positive,Excellent service and friendly staff,None
+REV-0411,2025-12-18,Booking.com,Conference,4,Positive,Excellent service and friendly staff,None
+REV-0412,2025-02-22,Google Reviews,Business,4,Positive,Great location near the city center,None
+REV-0413,2025-11-24,TripAdvisor,Conference,3,Neutral,Okay for the price,None
+REV-0414,2025-05-22,Google Reviews,Wedding,5,Positive,Great location near the city center,None
+REV-0415,2025-03-18,TripAdvisor,Conference,2,Negative,Room was smaller than expected,Cleanliness
+REV-0416,2025-10-05,Google Reviews,Family,4,Positive,Very clean rooms and comfortable beds,None
+REV-0417,2025-12-27,Google Reviews,Family,3,Neutral,"Average stay, nothing special",None
+REV-0418,2025-06-09,Google Reviews,Family,4,Positive,Very clean rooms and comfortable beds,None
+REV-0419,2025-01-15,Expedia,Business,2,Negative,WiFi was very slow,Noise
+REV-0420,2025-07-20,TripAdvisor,Family,5,Positive,Good value for money,None
+REV-0421,2025-12-20,Expedia,Family,4,Positive,Great location near the city center,None
+REV-0422,2025-04-12,Booking.com,Wedding,4,Positive,Excellent service and friendly staff,None
+REV-0423,2025-12-24,Expedia,Business,4,Positive,Good value for money,None
+REV-0424,2025-11-26,Expedia,Wedding,3,Neutral,"Average stay, nothing special",None
+REV-0425,2025-03-15,Google Reviews,Conference,4,Positive,Good value for money,None
+REV-0426,2025-12-07,Google Reviews,Conference,4,Positive,Excellent service and friendly staff,None
+REV-0427,2025-02-03,Expedia,Business,4,Positive,Delicious breakfast buffet,None
+REV-0428,2025-03-29,Google Reviews,Conference,4,Positive,Very clean rooms and comfortable beds,None
+REV-0429,2025-09-18,Booking.com,Wedding,5,Positive,Professional and helpful front desk,None
+REV-0430,2025-02-24,Google Reviews,Family,5,Positive,Professional and helpful front desk,None
+REV-0431,2025-06-04,Expedia,Wedding,4,Positive,Very clean rooms and comfortable beds,None
+REV-0432,2025-11-14,TripAdvisor,Family,3,Neutral,Okay for the price,None
+REV-0433,2025-07-16,Booking.com,Conference,3,Neutral,Met basic expectations,None
+REV-0434,2025-10-30,Expedia,Wedding,4,Positive,Great location near the city center,None
+REV-0435,2025-10-06,TripAdvisor,Leisure,5,Positive,Excellent service and friendly staff,None
+REV-0436,2025-12-31,Expedia,Business,4,Positive,Delicious breakfast buffet,None
+REV-0437,2025-06-16,Booking.com,Wedding,3,Neutral,Okay for the price,None
+REV-0438,2025-02-05,Booking.com,Family,5,Positive,Delicious breakfast buffet,None
+REV-0439,2025-06-17,Expedia,Business,2,Negative,Checkout process took too long,Facilities
+REV-0440,2025-11-22,Booking.com,Leisure,5,Positive,Delicious breakfast buffet,None
+REV-0441,2025-09-30,Google Reviews,Wedding,4,Positive,Delicious breakfast buffet,None
+REV-0442,2025-04-11,TripAdvisor,Conference,4,Positive,Professional and helpful front desk,None
+REV-0443,2025-12-14,Google Reviews,Wedding,5,Positive,Great location near the city center,None
+REV-0444,2025-02-15,Booking.com,Family,5,Positive,Delicious breakfast buffet,None
+REV-0445,2025-03-07,Google Reviews,Business,4,Positive,Peaceful and quiet atmosphere,None
+REV-0446,2025-01-28,Booking.com,Family,5,Positive,Great location near the city center,None
+REV-0447,2025-02-26,Google Reviews,Business,3,Neutral,Met basic expectations,None
+REV-0448,2025-10-30,Expedia,Conference,5,Positive,Delicious breakfast buffet,None
+REV-0449,2025-07-15,Expedia,Family,3,Neutral,"Average stay, nothing special",None
+REV-0450,2025-09-01,TripAdvisor,Leisure,4,Positive,Professional and helpful front desk,None

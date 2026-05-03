@@ -1,0 +1,1826 @@
+date,day_of_week,rooms_occupied,role,optimal_staff,actual_staff,daily_cost_bwp,overstaffed
+2025-01-01,Wednesday,58,Front Desk,3,4,1000,0
+2025-01-01,Wednesday,58,Housekeeping,5,7,1260,1
+2025-01-01,Wednesday,58,Restaurant,4,4,880,0
+2025-01-01,Wednesday,58,Maintenance,2,3,600,0
+2025-01-01,Wednesday,58,Security,2,2,300,0
+2025-01-02,Thursday,57,Front Desk,3,3,750,0
+2025-01-02,Thursday,57,Housekeeping,5,5,900,0
+2025-01-02,Thursday,57,Restaurant,4,4,880,0
+2025-01-02,Thursday,57,Maintenance,2,2,400,0
+2025-01-02,Thursday,57,Security,2,2,300,0
+2025-01-03,Friday,53,Front Desk,3,5,1250,1
+2025-01-03,Friday,53,Housekeeping,5,7,1260,1
+2025-01-03,Friday,53,Restaurant,4,4,880,0
+2025-01-03,Friday,53,Maintenance,2,2,400,0
+2025-01-03,Friday,53,Security,2,2,300,0
+2025-01-04,Saturday,64,Front Desk,3,5,1250,1
+2025-01-04,Saturday,64,Housekeeping,5,7,1260,1
+2025-01-04,Saturday,64,Restaurant,4,6,1320,1
+2025-01-04,Saturday,64,Maintenance,2,2,400,0
+2025-01-04,Saturday,64,Security,2,4,600,1
+2025-01-05,Sunday,72,Front Desk,3,5,1250,1
+2025-01-05,Sunday,72,Housekeeping,5,7,1260,1
+2025-01-05,Sunday,72,Restaurant,4,6,1320,1
+2025-01-05,Sunday,72,Maintenance,2,3,600,0
+2025-01-05,Sunday,72,Security,2,2,300,0
+2025-01-06,Monday,63,Front Desk,3,3,750,0
+2025-01-06,Monday,63,Housekeeping,5,7,1260,1
+2025-01-06,Monday,63,Restaurant,4,4,880,0
+2025-01-06,Monday,63,Maintenance,2,4,800,1
+2025-01-06,Monday,63,Security,2,2,300,0
+2025-01-07,Tuesday,59,Front Desk,3,4,1000,0
+2025-01-07,Tuesday,59,Housekeeping,5,7,1260,1
+2025-01-07,Tuesday,59,Restaurant,4,5,1100,0
+2025-01-07,Tuesday,59,Maintenance,2,2,400,0
+2025-01-07,Tuesday,59,Security,2,2,300,0
+2025-01-08,Wednesday,60,Front Desk,3,5,1250,1
+2025-01-08,Wednesday,60,Housekeeping,5,6,1080,0
+2025-01-08,Wednesday,60,Restaurant,4,4,880,0
+2025-01-08,Wednesday,60,Maintenance,2,4,800,1
+2025-01-08,Wednesday,60,Security,2,2,300,0
+2025-01-09,Thursday,61,Front Desk,3,3,750,0
+2025-01-09,Thursday,61,Housekeeping,5,6,1080,0
+2025-01-09,Thursday,61,Restaurant,4,6,1320,1
+2025-01-09,Thursday,61,Maintenance,2,2,400,0
+2025-01-09,Thursday,61,Security,2,2,300,0
+2025-01-10,Friday,56,Front Desk,3,3,750,0
+2025-01-10,Friday,56,Housekeeping,5,7,1260,1
+2025-01-10,Friday,56,Restaurant,4,4,880,0
+2025-01-10,Friday,56,Maintenance,2,3,600,0
+2025-01-10,Friday,56,Security,2,2,300,0
+2025-01-11,Saturday,65,Front Desk,3,4,1000,0
+2025-01-11,Saturday,65,Housekeeping,5,5,900,0
+2025-01-11,Saturday,65,Restaurant,4,6,1320,1
+2025-01-11,Saturday,65,Maintenance,2,4,800,1
+2025-01-11,Saturday,65,Security,2,4,600,1
+2025-01-12,Sunday,67,Front Desk,3,4,1000,0
+2025-01-12,Sunday,67,Housekeeping,5,7,1260,1
+2025-01-12,Sunday,67,Restaurant,4,5,1100,0
+2025-01-12,Sunday,67,Maintenance,2,3,600,0
+2025-01-12,Sunday,67,Security,2,3,450,0
+2025-01-13,Monday,58,Front Desk,3,3,750,0
+2025-01-13,Monday,58,Housekeeping,5,5,900,0
+2025-01-13,Monday,58,Restaurant,4,5,1100,0
+2025-01-13,Monday,58,Maintenance,2,3,600,0
+2025-01-13,Monday,58,Security,2,2,300,0
+2025-01-14,Tuesday,53,Front Desk,3,5,1250,1
+2025-01-14,Tuesday,53,Housekeeping,5,5,900,0
+2025-01-14,Tuesday,53,Restaurant,4,4,880,0
+2025-01-14,Tuesday,53,Maintenance,2,3,600,0
+2025-01-14,Tuesday,53,Security,2,2,300,0
+2025-01-15,Wednesday,53,Front Desk,3,4,1000,0
+2025-01-15,Wednesday,53,Housekeeping,5,7,1260,1
+2025-01-15,Wednesday,53,Restaurant,4,4,880,0
+2025-01-15,Wednesday,53,Maintenance,2,2,400,0
+2025-01-15,Wednesday,53,Security,2,2,300,0
+2025-01-16,Thursday,57,Front Desk,3,4,1000,0
+2025-01-16,Thursday,57,Housekeeping,5,6,1080,0
+2025-01-16,Thursday,57,Restaurant,4,4,880,0
+2025-01-16,Thursday,57,Maintenance,2,3,600,0
+2025-01-16,Thursday,57,Security,2,3,450,0
+2025-01-17,Friday,58,Front Desk,3,4,1000,0
+2025-01-17,Friday,58,Housekeeping,5,5,900,0
+2025-01-17,Friday,58,Restaurant,4,4,880,0
+2025-01-17,Friday,58,Maintenance,2,2,400,0
+2025-01-17,Friday,58,Security,2,2,300,0
+2025-01-18,Saturday,65,Front Desk,3,5,1250,1
+2025-01-18,Saturday,65,Housekeeping,5,6,1080,0
+2025-01-18,Saturday,65,Restaurant,4,4,880,0
+2025-01-18,Saturday,65,Maintenance,2,3,600,0
+2025-01-18,Saturday,65,Security,2,2,300,0
+2025-01-19,Sunday,71,Front Desk,3,5,1250,1
+2025-01-19,Sunday,71,Housekeeping,5,5,900,0
+2025-01-19,Sunday,71,Restaurant,4,4,880,0
+2025-01-19,Sunday,71,Maintenance,2,3,600,0
+2025-01-19,Sunday,71,Security,2,2,300,0
+2025-01-20,Monday,59,Front Desk,3,3,750,0
+2025-01-20,Monday,59,Housekeeping,5,5,900,0
+2025-01-20,Monday,59,Restaurant,4,6,1320,1
+2025-01-20,Monday,59,Maintenance,2,4,800,1
+2025-01-20,Monday,59,Security,2,4,600,1
+2025-01-21,Tuesday,59,Front Desk,3,3,750,0
+2025-01-21,Tuesday,59,Housekeeping,5,7,1260,1
+2025-01-21,Tuesday,59,Restaurant,4,4,880,0
+2025-01-21,Tuesday,59,Maintenance,2,2,400,0
+2025-01-21,Tuesday,59,Security,2,3,450,0
+2025-01-22,Wednesday,53,Front Desk,3,3,750,0
+2025-01-22,Wednesday,53,Housekeeping,5,6,1080,0
+2025-01-22,Wednesday,53,Restaurant,4,4,880,0
+2025-01-22,Wednesday,53,Maintenance,2,2,400,0
+2025-01-22,Wednesday,53,Security,2,2,300,0
+2025-01-23,Thursday,56,Front Desk,3,5,1250,1
+2025-01-23,Thursday,56,Housekeeping,5,7,1260,1
+2025-01-23,Thursday,56,Restaurant,4,6,1320,1
+2025-01-23,Thursday,56,Maintenance,2,3,600,0
+2025-01-23,Thursday,56,Security,2,4,600,1
+2025-01-24,Friday,59,Front Desk,3,3,750,0
+2025-01-24,Friday,59,Housekeeping,5,7,1260,1
+2025-01-24,Friday,59,Restaurant,4,6,1320,1
+2025-01-24,Friday,59,Maintenance,2,4,800,1
+2025-01-24,Friday,59,Security,2,3,450,0
+2025-01-25,Saturday,66,Front Desk,3,3,750,0
+2025-01-25,Saturday,66,Housekeeping,5,7,1260,1
+2025-01-25,Saturday,66,Restaurant,4,4,880,0
+2025-01-25,Saturday,66,Maintenance,2,3,600,0
+2025-01-25,Saturday,66,Security,2,4,600,1
+2025-01-26,Sunday,72,Front Desk,3,5,1250,1
+2025-01-26,Sunday,72,Housekeeping,5,6,1080,0
+2025-01-26,Sunday,72,Restaurant,4,4,880,0
+2025-01-26,Sunday,72,Maintenance,2,2,400,0
+2025-01-26,Sunday,72,Security,2,3,450,0
+2025-01-27,Monday,62,Front Desk,3,5,1250,1
+2025-01-27,Monday,62,Housekeeping,5,6,1080,0
+2025-01-27,Monday,62,Restaurant,4,5,1100,0
+2025-01-27,Monday,62,Maintenance,2,3,600,0
+2025-01-27,Monday,62,Security,2,3,450,0
+2025-01-28,Tuesday,64,Front Desk,3,3,750,0
+2025-01-28,Tuesday,64,Housekeeping,5,6,1080,0
+2025-01-28,Tuesday,64,Restaurant,4,6,1320,1
+2025-01-28,Tuesday,64,Maintenance,2,4,800,1
+2025-01-28,Tuesday,64,Security,2,2,300,0
+2025-01-29,Wednesday,58,Front Desk,3,3,750,0
+2025-01-29,Wednesday,58,Housekeeping,5,6,1080,0
+2025-01-29,Wednesday,58,Restaurant,4,4,880,0
+2025-01-29,Wednesday,58,Maintenance,2,3,600,0
+2025-01-29,Wednesday,58,Security,2,2,300,0
+2025-01-30,Thursday,61,Front Desk,3,3,750,0
+2025-01-30,Thursday,61,Housekeeping,5,5,900,0
+2025-01-30,Thursday,61,Restaurant,4,4,880,0
+2025-01-30,Thursday,61,Maintenance,2,4,800,1
+2025-01-30,Thursday,61,Security,2,2,300,0
+2025-01-31,Friday,57,Front Desk,3,3,750,0
+2025-01-31,Friday,57,Housekeeping,5,7,1260,1
+2025-01-31,Friday,57,Restaurant,4,5,1100,0
+2025-01-31,Friday,57,Maintenance,2,2,400,0
+2025-01-31,Friday,57,Security,2,3,450,0
+2025-02-01,Saturday,63,Front Desk,3,4,1000,0
+2025-02-01,Saturday,63,Housekeeping,5,5,900,0
+2025-02-01,Saturday,63,Restaurant,4,4,880,0
+2025-02-01,Saturday,63,Maintenance,2,2,400,0
+2025-02-01,Saturday,63,Security,2,2,300,0
+2025-02-02,Sunday,72,Front Desk,3,3,750,0
+2025-02-02,Sunday,72,Housekeeping,5,5,900,0
+2025-02-02,Sunday,72,Restaurant,4,4,880,0
+2025-02-02,Sunday,72,Maintenance,2,2,400,0
+2025-02-02,Sunday,72,Security,2,2,300,0
+2025-02-03,Monday,55,Front Desk,3,3,750,0
+2025-02-03,Monday,55,Housekeeping,5,7,1260,1
+2025-02-03,Monday,55,Restaurant,4,4,880,0
+2025-02-03,Monday,55,Maintenance,2,2,400,0
+2025-02-03,Monday,55,Security,2,2,300,0
+2025-02-04,Tuesday,57,Front Desk,3,4,1000,0
+2025-02-04,Tuesday,57,Housekeeping,5,6,1080,0
+2025-02-04,Tuesday,57,Restaurant,4,6,1320,1
+2025-02-04,Tuesday,57,Maintenance,2,2,400,0
+2025-02-04,Tuesday,57,Security,2,4,600,1
+2025-02-05,Wednesday,57,Front Desk,3,4,1000,0
+2025-02-05,Wednesday,57,Housekeeping,5,7,1260,1
+2025-02-05,Wednesday,57,Restaurant,4,5,1100,0
+2025-02-05,Wednesday,57,Maintenance,2,3,600,0
+2025-02-05,Wednesday,57,Security,2,2,300,0
+2025-02-06,Thursday,58,Front Desk,3,3,750,0
+2025-02-06,Thursday,58,Housekeeping,5,6,1080,0
+2025-02-06,Thursday,58,Restaurant,4,4,880,0
+2025-02-06,Thursday,58,Maintenance,2,4,800,1
+2025-02-06,Thursday,58,Security,2,4,600,1
+2025-02-07,Friday,58,Front Desk,3,4,1000,0
+2025-02-07,Friday,58,Housekeeping,5,5,900,0
+2025-02-07,Friday,58,Restaurant,4,5,1100,0
+2025-02-07,Friday,58,Maintenance,2,3,600,0
+2025-02-07,Friday,58,Security,2,2,300,0
+2025-02-08,Saturday,72,Front Desk,3,5,1250,1
+2025-02-08,Saturday,72,Housekeeping,5,5,900,0
+2025-02-08,Saturday,72,Restaurant,4,6,1320,1
+2025-02-08,Saturday,72,Maintenance,2,2,400,0
+2025-02-08,Saturday,72,Security,2,4,600,1
+2025-02-09,Sunday,61,Front Desk,3,3,750,0
+2025-02-09,Sunday,61,Housekeeping,5,7,1260,1
+2025-02-09,Sunday,61,Restaurant,4,4,880,0
+2025-02-09,Sunday,61,Maintenance,2,2,400,0
+2025-02-09,Sunday,61,Security,2,4,600,1
+2025-02-10,Monday,63,Front Desk,3,3,750,0
+2025-02-10,Monday,63,Housekeeping,5,5,900,0
+2025-02-10,Monday,63,Restaurant,4,6,1320,1
+2025-02-10,Monday,63,Maintenance,2,3,600,0
+2025-02-10,Monday,63,Security,2,2,300,0
+2025-02-11,Tuesday,62,Front Desk,3,3,750,0
+2025-02-11,Tuesday,62,Housekeeping,5,5,900,0
+2025-02-11,Tuesday,62,Restaurant,4,4,880,0
+2025-02-11,Tuesday,62,Maintenance,2,3,600,0
+2025-02-11,Tuesday,62,Security,2,4,600,1
+2025-02-12,Wednesday,56,Front Desk,3,3,750,0
+2025-02-12,Wednesday,56,Housekeeping,5,7,1260,1
+2025-02-12,Wednesday,56,Restaurant,4,4,880,0
+2025-02-12,Wednesday,56,Maintenance,2,2,400,0
+2025-02-12,Wednesday,56,Security,2,2,300,0
+2025-02-13,Thursday,57,Front Desk,3,5,1250,1
+2025-02-13,Thursday,57,Housekeeping,5,6,1080,0
+2025-02-13,Thursday,57,Restaurant,4,4,880,0
+2025-02-13,Thursday,57,Maintenance,2,3,600,0
+2025-02-13,Thursday,57,Security,2,4,600,1
+2025-02-14,Friday,57,Front Desk,3,3,750,0
+2025-02-14,Friday,57,Housekeeping,5,7,1260,1
+2025-02-14,Friday,57,Restaurant,4,6,1320,1
+2025-02-14,Friday,57,Maintenance,2,4,800,1
+2025-02-14,Friday,57,Security,2,4,600,1
+2025-02-15,Saturday,65,Front Desk,3,3,750,0
+2025-02-15,Saturday,65,Housekeeping,5,5,900,0
+2025-02-15,Saturday,65,Restaurant,4,4,880,0
+2025-02-15,Saturday,65,Maintenance,2,4,800,1
+2025-02-15,Saturday,65,Security,2,4,600,1
+2025-02-16,Sunday,70,Front Desk,3,3,750,0
+2025-02-16,Sunday,70,Housekeeping,5,6,1080,0
+2025-02-16,Sunday,70,Restaurant,4,5,1100,0
+2025-02-16,Sunday,70,Maintenance,2,3,600,0
+2025-02-16,Sunday,70,Security,2,4,600,1
+2025-02-17,Monday,62,Front Desk,3,3,750,0
+2025-02-17,Monday,62,Housekeeping,5,5,900,0
+2025-02-17,Monday,62,Restaurant,4,5,1100,0
+2025-02-17,Monday,62,Maintenance,2,3,600,0
+2025-02-17,Monday,62,Security,2,2,300,0
+2025-02-18,Tuesday,52,Front Desk,3,5,1250,1
+2025-02-18,Tuesday,52,Housekeeping,5,6,1080,0
+2025-02-18,Tuesday,52,Restaurant,4,4,880,0
+2025-02-18,Tuesday,52,Maintenance,2,2,400,0
+2025-02-18,Tuesday,52,Security,2,2,300,0
+2025-02-19,Wednesday,61,Front Desk,3,5,1250,1
+2025-02-19,Wednesday,61,Housekeeping,5,5,900,0
+2025-02-19,Wednesday,61,Restaurant,4,5,1100,0
+2025-02-19,Wednesday,61,Maintenance,2,4,800,1
+2025-02-19,Wednesday,61,Security,2,2,300,0
+2025-02-20,Thursday,60,Front Desk,3,4,1000,0
+2025-02-20,Thursday,60,Housekeeping,5,7,1260,1
+2025-02-20,Thursday,60,Restaurant,4,4,880,0
+2025-02-20,Thursday,60,Maintenance,2,4,800,1
+2025-02-20,Thursday,60,Security,2,2,300,0
+2025-02-21,Friday,59,Front Desk,3,3,750,0
+2025-02-21,Friday,59,Housekeeping,5,5,900,0
+2025-02-21,Friday,59,Restaurant,4,4,880,0
+2025-02-21,Friday,59,Maintenance,2,2,400,0
+2025-02-21,Friday,59,Security,2,2,300,0
+2025-02-22,Saturday,69,Front Desk,3,5,1250,1
+2025-02-22,Saturday,69,Housekeeping,5,7,1260,1
+2025-02-22,Saturday,69,Restaurant,4,4,880,0
+2025-02-22,Saturday,69,Maintenance,2,3,600,0
+2025-02-22,Saturday,69,Security,2,4,600,1
+2025-02-23,Sunday,66,Front Desk,3,5,1250,1
+2025-02-23,Sunday,66,Housekeeping,5,5,900,0
+2025-02-23,Sunday,66,Restaurant,4,4,880,0
+2025-02-23,Sunday,66,Maintenance,2,3,600,0
+2025-02-23,Sunday,66,Security,2,2,300,0
+2025-02-24,Monday,52,Front Desk,3,4,1000,0
+2025-02-24,Monday,52,Housekeeping,5,5,900,0
+2025-02-24,Monday,52,Restaurant,4,6,1320,1
+2025-02-24,Monday,52,Maintenance,2,2,400,0
+2025-02-24,Monday,52,Security,2,2,300,0
+2025-02-25,Tuesday,57,Front Desk,3,5,1250,1
+2025-02-25,Tuesday,57,Housekeeping,5,5,900,0
+2025-02-25,Tuesday,57,Restaurant,4,4,880,0
+2025-02-25,Tuesday,57,Maintenance,2,2,400,0
+2025-02-25,Tuesday,57,Security,2,2,300,0
+2025-02-26,Wednesday,53,Front Desk,3,3,750,0
+2025-02-26,Wednesday,53,Housekeeping,5,7,1260,1
+2025-02-26,Wednesday,53,Restaurant,4,4,880,0
+2025-02-26,Wednesday,53,Maintenance,2,4,800,1
+2025-02-26,Wednesday,53,Security,2,2,300,0
+2025-02-27,Thursday,59,Front Desk,3,3,750,0
+2025-02-27,Thursday,59,Housekeeping,5,5,900,0
+2025-02-27,Thursday,59,Restaurant,4,4,880,0
+2025-02-27,Thursday,59,Maintenance,2,2,400,0
+2025-02-27,Thursday,59,Security,2,2,300,0
+2025-02-28,Friday,56,Front Desk,3,4,1000,0
+2025-02-28,Friday,56,Housekeeping,5,5,900,0
+2025-02-28,Friday,56,Restaurant,4,6,1320,1
+2025-02-28,Friday,56,Maintenance,2,2,400,0
+2025-02-28,Friday,56,Security,2,2,300,0
+2025-03-01,Saturday,67,Front Desk,3,3,750,0
+2025-03-01,Saturday,67,Housekeeping,5,5,900,0
+2025-03-01,Saturday,67,Restaurant,4,6,1320,1
+2025-03-01,Saturday,67,Maintenance,2,2,400,0
+2025-03-01,Saturday,67,Security,2,2,300,0
+2025-03-02,Sunday,71,Front Desk,3,3,750,0
+2025-03-02,Sunday,71,Housekeeping,5,7,1260,1
+2025-03-02,Sunday,71,Restaurant,4,5,1100,0
+2025-03-02,Sunday,71,Maintenance,2,4,800,1
+2025-03-02,Sunday,71,Security,2,3,450,0
+2025-03-03,Monday,61,Front Desk,3,3,750,0
+2025-03-03,Monday,61,Housekeeping,5,5,900,0
+2025-03-03,Monday,61,Restaurant,4,5,1100,0
+2025-03-03,Monday,61,Maintenance,2,2,400,0
+2025-03-03,Monday,61,Security,2,2,300,0
+2025-03-04,Tuesday,60,Front Desk,3,3,750,0
+2025-03-04,Tuesday,60,Housekeeping,5,6,1080,0
+2025-03-04,Tuesday,60,Restaurant,4,4,880,0
+2025-03-04,Tuesday,60,Maintenance,2,2,400,0
+2025-03-04,Tuesday,60,Security,2,3,450,0
+2025-03-05,Wednesday,61,Front Desk,3,3,750,0
+2025-03-05,Wednesday,61,Housekeeping,5,7,1260,1
+2025-03-05,Wednesday,61,Restaurant,4,4,880,0
+2025-03-05,Wednesday,61,Maintenance,2,3,600,0
+2025-03-05,Wednesday,61,Security,2,2,300,0
+2025-03-06,Thursday,59,Front Desk,3,5,1250,1
+2025-03-06,Thursday,59,Housekeeping,5,5,900,0
+2025-03-06,Thursday,59,Restaurant,4,4,880,0
+2025-03-06,Thursday,59,Maintenance,2,2,400,0
+2025-03-06,Thursday,59,Security,2,2,300,0
+2025-03-07,Friday,56,Front Desk,3,5,1250,1
+2025-03-07,Friday,56,Housekeeping,5,5,900,0
+2025-03-07,Friday,56,Restaurant,4,4,880,0
+2025-03-07,Friday,56,Maintenance,2,4,800,1
+2025-03-07,Friday,56,Security,2,2,300,0
+2025-03-08,Saturday,69,Front Desk,3,3,750,0
+2025-03-08,Saturday,69,Housekeeping,5,5,900,0
+2025-03-08,Saturday,69,Restaurant,4,4,880,0
+2025-03-08,Saturday,69,Maintenance,2,2,400,0
+2025-03-08,Saturday,69,Security,2,3,450,0
+2025-03-09,Sunday,68,Front Desk,3,5,1250,1
+2025-03-09,Sunday,68,Housekeeping,5,7,1260,1
+2025-03-09,Sunday,68,Restaurant,4,4,880,0
+2025-03-09,Sunday,68,Maintenance,2,2,400,0
+2025-03-09,Sunday,68,Security,2,2,300,0
+2025-03-10,Monday,62,Front Desk,3,4,1000,0
+2025-03-10,Monday,62,Housekeeping,5,7,1260,1
+2025-03-10,Monday,62,Restaurant,4,6,1320,1
+2025-03-10,Monday,62,Maintenance,2,2,400,0
+2025-03-10,Monday,62,Security,2,2,300,0
+2025-03-11,Tuesday,57,Front Desk,3,3,750,0
+2025-03-11,Tuesday,57,Housekeeping,5,5,900,0
+2025-03-11,Tuesday,57,Restaurant,4,6,1320,1
+2025-03-11,Tuesday,57,Maintenance,2,2,400,0
+2025-03-11,Tuesday,57,Security,2,3,450,0
+2025-03-12,Wednesday,54,Front Desk,3,4,1000,0
+2025-03-12,Wednesday,54,Housekeeping,5,7,1260,1
+2025-03-12,Wednesday,54,Restaurant,4,4,880,0
+2025-03-12,Wednesday,54,Maintenance,2,2,400,0
+2025-03-12,Wednesday,54,Security,2,2,300,0
+2025-03-13,Thursday,56,Front Desk,3,3,750,0
+2025-03-13,Thursday,56,Housekeeping,5,5,900,0
+2025-03-13,Thursday,56,Restaurant,4,5,1100,0
+2025-03-13,Thursday,56,Maintenance,2,2,400,0
+2025-03-13,Thursday,56,Security,2,4,600,1
+2025-03-14,Friday,54,Front Desk,3,3,750,0
+2025-03-14,Friday,54,Housekeeping,5,6,1080,0
+2025-03-14,Friday,54,Restaurant,4,4,880,0
+2025-03-14,Friday,54,Maintenance,2,2,400,0
+2025-03-14,Friday,54,Security,2,2,300,0
+2025-03-15,Saturday,65,Front Desk,3,3,750,0
+2025-03-15,Saturday,65,Housekeeping,5,7,1260,1
+2025-03-15,Saturday,65,Restaurant,4,6,1320,1
+2025-03-15,Saturday,65,Maintenance,2,2,400,0
+2025-03-15,Saturday,65,Security,2,2,300,0
+2025-03-16,Sunday,69,Front Desk,3,3,750,0
+2025-03-16,Sunday,69,Housekeeping,5,5,900,0
+2025-03-16,Sunday,69,Restaurant,4,5,1100,0
+2025-03-16,Sunday,69,Maintenance,2,3,600,0
+2025-03-16,Sunday,69,Security,2,2,300,0
+2025-03-17,Monday,58,Front Desk,3,5,1250,1
+2025-03-17,Monday,58,Housekeeping,5,6,1080,0
+2025-03-17,Monday,58,Restaurant,4,5,1100,0
+2025-03-17,Monday,58,Maintenance,2,4,800,1
+2025-03-17,Monday,58,Security,2,2,300,0
+2025-03-18,Tuesday,59,Front Desk,3,3,750,0
+2025-03-18,Tuesday,59,Housekeeping,5,5,900,0
+2025-03-18,Tuesday,59,Restaurant,4,4,880,0
+2025-03-18,Tuesday,59,Maintenance,2,2,400,0
+2025-03-18,Tuesday,59,Security,2,2,300,0
+2025-03-19,Wednesday,63,Front Desk,3,5,1250,1
+2025-03-19,Wednesday,63,Housekeeping,5,5,900,0
+2025-03-19,Wednesday,63,Restaurant,4,4,880,0
+2025-03-19,Wednesday,63,Maintenance,2,2,400,0
+2025-03-19,Wednesday,63,Security,2,4,600,1
+2025-03-20,Thursday,61,Front Desk,3,4,1000,0
+2025-03-20,Thursday,61,Housekeeping,5,7,1260,1
+2025-03-20,Thursday,61,Restaurant,4,4,880,0
+2025-03-20,Thursday,61,Maintenance,2,3,600,0
+2025-03-20,Thursday,61,Security,2,2,300,0
+2025-03-21,Friday,56,Front Desk,3,3,750,0
+2025-03-21,Friday,56,Housekeeping,5,6,1080,0
+2025-03-21,Friday,56,Restaurant,4,4,880,0
+2025-03-21,Friday,56,Maintenance,2,2,400,0
+2025-03-21,Friday,56,Security,2,2,300,0
+2025-03-22,Saturday,71,Front Desk,3,5,1250,1
+2025-03-22,Saturday,71,Housekeeping,5,5,900,0
+2025-03-22,Saturday,71,Restaurant,4,6,1320,1
+2025-03-22,Saturday,71,Maintenance,2,2,400,0
+2025-03-22,Saturday,71,Security,2,2,300,0
+2025-03-23,Sunday,67,Front Desk,3,5,1250,1
+2025-03-23,Sunday,67,Housekeeping,5,7,1260,1
+2025-03-23,Sunday,67,Restaurant,4,4,880,0
+2025-03-23,Sunday,67,Maintenance,2,4,800,1
+2025-03-23,Sunday,67,Security,2,2,300,0
+2025-03-24,Monday,55,Front Desk,3,3,750,0
+2025-03-24,Monday,55,Housekeeping,5,7,1260,1
+2025-03-24,Monday,55,Restaurant,4,4,880,0
+2025-03-24,Monday,55,Maintenance,2,4,800,1
+2025-03-24,Monday,55,Security,2,3,450,0
+2025-03-25,Tuesday,60,Front Desk,3,3,750,0
+2025-03-25,Tuesday,60,Housekeeping,5,7,1260,1
+2025-03-25,Tuesday,60,Restaurant,4,4,880,0
+2025-03-25,Tuesday,60,Maintenance,2,3,600,0
+2025-03-25,Tuesday,60,Security,2,3,450,0
+2025-03-26,Wednesday,55,Front Desk,3,3,750,0
+2025-03-26,Wednesday,55,Housekeeping,5,6,1080,0
+2025-03-26,Wednesday,55,Restaurant,4,4,880,0
+2025-03-26,Wednesday,55,Maintenance,2,2,400,0
+2025-03-26,Wednesday,55,Security,2,2,300,0
+2025-03-27,Thursday,56,Front Desk,3,4,1000,0
+2025-03-27,Thursday,56,Housekeeping,5,5,900,0
+2025-03-27,Thursday,56,Restaurant,4,4,880,0
+2025-03-27,Thursday,56,Maintenance,2,4,800,1
+2025-03-27,Thursday,56,Security,2,4,600,1
+2025-03-28,Friday,59,Front Desk,3,5,1250,1
+2025-03-28,Friday,59,Housekeeping,5,5,900,0
+2025-03-28,Friday,59,Restaurant,4,5,1100,0
+2025-03-28,Friday,59,Maintenance,2,2,400,0
+2025-03-28,Friday,59,Security,2,3,450,0
+2025-03-29,Saturday,72,Front Desk,3,3,750,0
+2025-03-29,Saturday,72,Housekeeping,5,5,900,0
+2025-03-29,Saturday,72,Restaurant,4,4,880,0
+2025-03-29,Saturday,72,Maintenance,2,2,400,0
+2025-03-29,Saturday,72,Security,2,4,600,1
+2025-03-30,Sunday,67,Front Desk,3,5,1250,1
+2025-03-30,Sunday,67,Housekeeping,5,5,900,0
+2025-03-30,Sunday,67,Restaurant,4,6,1320,1
+2025-03-30,Sunday,67,Maintenance,2,4,800,1
+2025-03-30,Sunday,67,Security,2,3,450,0
+2025-03-31,Monday,56,Front Desk,3,3,750,0
+2025-03-31,Monday,56,Housekeeping,5,7,1260,1
+2025-03-31,Monday,56,Restaurant,4,4,880,0
+2025-03-31,Monday,56,Maintenance,2,2,400,0
+2025-03-31,Monday,56,Security,2,3,450,0
+2025-04-01,Tuesday,53,Front Desk,3,5,1250,1
+2025-04-01,Tuesday,53,Housekeeping,5,5,900,0
+2025-04-01,Tuesday,53,Restaurant,4,4,880,0
+2025-04-01,Tuesday,53,Maintenance,2,2,400,0
+2025-04-01,Tuesday,53,Security,2,4,600,1
+2025-04-02,Wednesday,63,Front Desk,3,3,750,0
+2025-04-02,Wednesday,63,Housekeeping,5,5,900,0
+2025-04-02,Wednesday,63,Restaurant,4,6,1320,1
+2025-04-02,Wednesday,63,Maintenance,2,2,400,0
+2025-04-02,Wednesday,63,Security,2,4,600,1
+2025-04-03,Thursday,60,Front Desk,3,5,1250,1
+2025-04-03,Thursday,60,Housekeeping,5,7,1260,1
+2025-04-03,Thursday,60,Restaurant,4,4,880,0
+2025-04-03,Thursday,60,Maintenance,2,4,800,1
+2025-04-03,Thursday,60,Security,2,4,600,1
+2025-04-04,Friday,56,Front Desk,3,3,750,0
+2025-04-04,Friday,56,Housekeeping,5,5,900,0
+2025-04-04,Friday,56,Restaurant,4,4,880,0
+2025-04-04,Friday,56,Maintenance,2,4,800,1
+2025-04-04,Friday,56,Security,2,2,300,0
+2025-04-05,Saturday,62,Front Desk,3,3,750,0
+2025-04-05,Saturday,62,Housekeeping,5,6,1080,0
+2025-04-05,Saturday,62,Restaurant,4,5,1100,0
+2025-04-05,Saturday,62,Maintenance,2,2,400,0
+2025-04-05,Saturday,62,Security,2,2,300,0
+2025-04-06,Sunday,62,Front Desk,3,3,750,0
+2025-04-06,Sunday,62,Housekeeping,5,7,1260,1
+2025-04-06,Sunday,62,Restaurant,4,5,1100,0
+2025-04-06,Sunday,62,Maintenance,2,2,400,0
+2025-04-06,Sunday,62,Security,2,4,600,1
+2025-04-07,Monday,57,Front Desk,3,3,750,0
+2025-04-07,Monday,57,Housekeeping,5,7,1260,1
+2025-04-07,Monday,57,Restaurant,4,6,1320,1
+2025-04-07,Monday,57,Maintenance,2,2,400,0
+2025-04-07,Monday,57,Security,2,4,600,1
+2025-04-08,Tuesday,61,Front Desk,3,3,750,0
+2025-04-08,Tuesday,61,Housekeeping,5,6,1080,0
+2025-04-08,Tuesday,61,Restaurant,4,6,1320,1
+2025-04-08,Tuesday,61,Maintenance,2,2,400,0
+2025-04-08,Tuesday,61,Security,2,2,300,0
+2025-04-09,Wednesday,61,Front Desk,3,5,1250,1
+2025-04-09,Wednesday,61,Housekeeping,5,6,1080,0
+2025-04-09,Wednesday,61,Restaurant,4,4,880,0
+2025-04-09,Wednesday,61,Maintenance,2,3,600,0
+2025-04-09,Wednesday,61,Security,2,4,600,1
+2025-04-10,Thursday,71,Front Desk,3,4,1000,0
+2025-04-10,Thursday,71,Housekeeping,5,5,900,0
+2025-04-10,Thursday,71,Restaurant,4,4,880,0
+2025-04-10,Thursday,71,Maintenance,2,3,600,0
+2025-04-10,Thursday,71,Security,2,2,300,0
+2025-04-11,Friday,77,Front Desk,3,4,1000,0
+2025-04-11,Friday,77,Housekeeping,6,5,900,0
+2025-04-11,Friday,77,Restaurant,4,4,880,0
+2025-04-11,Friday,77,Maintenance,2,4,800,1
+2025-04-11,Friday,77,Security,2,3,450,0
+2025-04-12,Saturday,87,Front Desk,3,5,1250,1
+2025-04-12,Saturday,87,Housekeeping,6,5,900,0
+2025-04-12,Saturday,87,Restaurant,4,5,1100,0
+2025-04-12,Saturday,87,Maintenance,2,3,600,0
+2025-04-12,Saturday,87,Security,2,2,300,0
+2025-04-13,Sunday,81,Front Desk,3,3,750,0
+2025-04-13,Sunday,81,Housekeeping,6,6,1080,0
+2025-04-13,Sunday,81,Restaurant,4,4,880,0
+2025-04-13,Sunday,81,Maintenance,2,3,600,0
+2025-04-13,Sunday,81,Security,2,2,300,0
+2025-04-14,Monday,80,Front Desk,3,3,750,0
+2025-04-14,Monday,80,Housekeeping,6,8,1440,1
+2025-04-14,Monday,80,Restaurant,4,4,880,0
+2025-04-14,Monday,80,Maintenance,2,2,400,0
+2025-04-14,Monday,80,Security,2,3,450,0
+2025-04-15,Tuesday,90,Front Desk,3,4,1000,0
+2025-04-15,Tuesday,90,Housekeeping,7,8,1440,0
+2025-04-15,Tuesday,90,Restaurant,4,6,1320,1
+2025-04-15,Tuesday,90,Maintenance,2,3,600,0
+2025-04-15,Tuesday,90,Security,2,2,300,0
+2025-04-16,Wednesday,81,Front Desk,3,3,750,0
+2025-04-16,Wednesday,81,Housekeeping,6,7,1260,0
+2025-04-16,Wednesday,81,Restaurant,4,5,1100,0
+2025-04-16,Wednesday,81,Maintenance,2,4,800,1
+2025-04-16,Wednesday,81,Security,2,4,600,1
+2025-04-17,Thursday,83,Front Desk,3,3,750,0
+2025-04-17,Thursday,83,Housekeeping,6,8,1440,1
+2025-04-17,Thursday,83,Restaurant,4,5,1100,0
+2025-04-17,Thursday,83,Maintenance,2,4,800,1
+2025-04-17,Thursday,83,Security,2,3,450,0
+2025-04-18,Friday,80,Front Desk,3,3,750,0
+2025-04-18,Friday,80,Housekeeping,6,6,1080,0
+2025-04-18,Friday,80,Restaurant,4,6,1320,1
+2025-04-18,Friday,80,Maintenance,2,2,400,0
+2025-04-18,Friday,80,Security,2,2,300,0
+2025-04-19,Saturday,90,Front Desk,3,5,1250,1
+2025-04-19,Saturday,90,Housekeeping,7,7,1260,0
+2025-04-19,Saturday,90,Restaurant,4,5,1100,0
+2025-04-19,Saturday,90,Maintenance,2,2,400,0
+2025-04-19,Saturday,90,Security,2,2,300,0
+2025-04-20,Sunday,89,Front Desk,3,3,750,0
+2025-04-20,Sunday,89,Housekeeping,7,8,1440,0
+2025-04-20,Sunday,89,Restaurant,4,4,880,0
+2025-04-20,Sunday,89,Maintenance,2,2,400,0
+2025-04-20,Sunday,89,Security,2,4,600,1
+2025-04-21,Monday,61,Front Desk,3,3,750,0
+2025-04-21,Monday,61,Housekeeping,5,5,900,0
+2025-04-21,Monday,61,Restaurant,4,4,880,0
+2025-04-21,Monday,61,Maintenance,2,3,600,0
+2025-04-21,Monday,61,Security,2,4,600,1
+2025-04-22,Tuesday,59,Front Desk,3,3,750,0
+2025-04-22,Tuesday,59,Housekeeping,5,7,1260,1
+2025-04-22,Tuesday,59,Restaurant,4,5,1100,0
+2025-04-22,Tuesday,59,Maintenance,2,4,800,1
+2025-04-22,Tuesday,59,Security,2,4,600,1
+2025-04-23,Wednesday,59,Front Desk,3,3,750,0
+2025-04-23,Wednesday,59,Housekeeping,5,6,1080,0
+2025-04-23,Wednesday,59,Restaurant,4,4,880,0
+2025-04-23,Wednesday,59,Maintenance,2,2,400,0
+2025-04-23,Wednesday,59,Security,2,2,300,0
+2025-04-24,Thursday,58,Front Desk,3,3,750,0
+2025-04-24,Thursday,58,Housekeeping,5,6,1080,0
+2025-04-24,Thursday,58,Restaurant,4,6,1320,1
+2025-04-24,Thursday,58,Maintenance,2,3,600,0
+2025-04-24,Thursday,58,Security,2,3,450,0
+2025-04-25,Friday,58,Front Desk,3,5,1250,1
+2025-04-25,Friday,58,Housekeeping,5,7,1260,1
+2025-04-25,Friday,58,Restaurant,4,6,1320,1
+2025-04-25,Friday,58,Maintenance,2,3,600,0
+2025-04-25,Friday,58,Security,2,2,300,0
+2025-04-26,Saturday,69,Front Desk,3,4,1000,0
+2025-04-26,Saturday,69,Housekeeping,5,5,900,0
+2025-04-26,Saturday,69,Restaurant,4,5,1100,0
+2025-04-26,Saturday,69,Maintenance,2,2,400,0
+2025-04-26,Saturday,69,Security,2,4,600,1
+2025-04-27,Sunday,65,Front Desk,3,4,1000,0
+2025-04-27,Sunday,65,Housekeeping,5,6,1080,0
+2025-04-27,Sunday,65,Restaurant,4,4,880,0
+2025-04-27,Sunday,65,Maintenance,2,2,400,0
+2025-04-27,Sunday,65,Security,2,3,450,0
+2025-04-28,Monday,59,Front Desk,3,4,1000,0
+2025-04-28,Monday,59,Housekeeping,5,7,1260,1
+2025-04-28,Monday,59,Restaurant,4,4,880,0
+2025-04-28,Monday,59,Maintenance,2,2,400,0
+2025-04-28,Monday,59,Security,2,3,450,0
+2025-04-29,Tuesday,55,Front Desk,3,3,750,0
+2025-04-29,Tuesday,55,Housekeeping,5,5,900,0
+2025-04-29,Tuesday,55,Restaurant,4,4,880,0
+2025-04-29,Tuesday,55,Maintenance,2,2,400,0
+2025-04-29,Tuesday,55,Security,2,2,300,0
+2025-04-30,Wednesday,55,Front Desk,3,3,750,0
+2025-04-30,Wednesday,55,Housekeeping,5,5,900,0
+2025-04-30,Wednesday,55,Restaurant,4,5,1100,0
+2025-04-30,Wednesday,55,Maintenance,2,2,400,0
+2025-04-30,Wednesday,55,Security,2,4,600,1
+2025-05-01,Thursday,57,Front Desk,3,4,1000,0
+2025-05-01,Thursday,57,Housekeeping,5,6,1080,0
+2025-05-01,Thursday,57,Restaurant,4,4,880,0
+2025-05-01,Thursday,57,Maintenance,2,2,400,0
+2025-05-01,Thursday,57,Security,2,2,300,0
+2025-05-02,Friday,60,Front Desk,3,4,1000,0
+2025-05-02,Friday,60,Housekeeping,5,6,1080,0
+2025-05-02,Friday,60,Restaurant,4,4,880,0
+2025-05-02,Friday,60,Maintenance,2,3,600,0
+2025-05-02,Friday,60,Security,2,4,600,1
+2025-05-03,Saturday,70,Front Desk,3,3,750,0
+2025-05-03,Saturday,70,Housekeeping,5,6,1080,0
+2025-05-03,Saturday,70,Restaurant,4,4,880,0
+2025-05-03,Saturday,70,Maintenance,2,2,400,0
+2025-05-03,Saturday,70,Security,2,4,600,1
+2025-05-04,Sunday,63,Front Desk,3,5,1250,1
+2025-05-04,Sunday,63,Housekeeping,5,5,900,0
+2025-05-04,Sunday,63,Restaurant,4,6,1320,1
+2025-05-04,Sunday,63,Maintenance,2,3,600,0
+2025-05-04,Sunday,63,Security,2,2,300,0
+2025-05-05,Monday,55,Front Desk,3,3,750,0
+2025-05-05,Monday,55,Housekeeping,5,6,1080,0
+2025-05-05,Monday,55,Restaurant,4,5,1100,0
+2025-05-05,Monday,55,Maintenance,2,4,800,1
+2025-05-05,Monday,55,Security,2,3,450,0
+2025-05-06,Tuesday,55,Front Desk,3,3,750,0
+2025-05-06,Tuesday,55,Housekeeping,5,7,1260,1
+2025-05-06,Tuesday,55,Restaurant,4,5,1100,0
+2025-05-06,Tuesday,55,Maintenance,2,2,400,0
+2025-05-06,Tuesday,55,Security,2,4,600,1
+2025-05-07,Wednesday,59,Front Desk,3,3,750,0
+2025-05-07,Wednesday,59,Housekeeping,5,5,900,0
+2025-05-07,Wednesday,59,Restaurant,4,4,880,0
+2025-05-07,Wednesday,59,Maintenance,2,3,600,0
+2025-05-07,Wednesday,59,Security,2,2,300,0
+2025-05-08,Thursday,61,Front Desk,3,5,1250,1
+2025-05-08,Thursday,61,Housekeeping,5,5,900,0
+2025-05-08,Thursday,61,Restaurant,4,6,1320,1
+2025-05-08,Thursday,61,Maintenance,2,3,600,0
+2025-05-08,Thursday,61,Security,2,2,300,0
+2025-05-09,Friday,58,Front Desk,3,4,1000,0
+2025-05-09,Friday,58,Housekeeping,5,5,900,0
+2025-05-09,Friday,58,Restaurant,4,4,880,0
+2025-05-09,Friday,58,Maintenance,2,2,400,0
+2025-05-09,Friday,58,Security,2,3,450,0
+2025-05-10,Saturday,65,Front Desk,3,3,750,0
+2025-05-10,Saturday,65,Housekeeping,5,5,900,0
+2025-05-10,Saturday,65,Restaurant,4,4,880,0
+2025-05-10,Saturday,65,Maintenance,2,4,800,1
+2025-05-10,Saturday,65,Security,2,2,300,0
+2025-05-11,Sunday,68,Front Desk,3,5,1250,1
+2025-05-11,Sunday,68,Housekeeping,5,5,900,0
+2025-05-11,Sunday,68,Restaurant,4,6,1320,1
+2025-05-11,Sunday,68,Maintenance,2,3,600,0
+2025-05-11,Sunday,68,Security,2,2,300,0
+2025-05-12,Monday,61,Front Desk,3,4,1000,0
+2025-05-12,Monday,61,Housekeeping,5,7,1260,1
+2025-05-12,Monday,61,Restaurant,4,4,880,0
+2025-05-12,Monday,61,Maintenance,2,4,800,1
+2025-05-12,Monday,61,Security,2,3,450,0
+2025-05-13,Tuesday,61,Front Desk,3,5,1250,1
+2025-05-13,Tuesday,61,Housekeeping,5,6,1080,0
+2025-05-13,Tuesday,61,Restaurant,4,4,880,0
+2025-05-13,Tuesday,61,Maintenance,2,3,600,0
+2025-05-13,Tuesday,61,Security,2,3,450,0
+2025-05-14,Wednesday,64,Front Desk,3,4,1000,0
+2025-05-14,Wednesday,64,Housekeeping,5,6,1080,0
+2025-05-14,Wednesday,64,Restaurant,4,6,1320,1
+2025-05-14,Wednesday,64,Maintenance,2,2,400,0
+2025-05-14,Wednesday,64,Security,2,2,300,0
+2025-05-15,Thursday,60,Front Desk,3,5,1250,1
+2025-05-15,Thursday,60,Housekeeping,5,7,1260,1
+2025-05-15,Thursday,60,Restaurant,4,6,1320,1
+2025-05-15,Thursday,60,Maintenance,2,3,600,0
+2025-05-15,Thursday,60,Security,2,2,300,0
+2025-05-16,Friday,56,Front Desk,3,5,1250,1
+2025-05-16,Friday,56,Housekeeping,5,7,1260,1
+2025-05-16,Friday,56,Restaurant,4,4,880,0
+2025-05-16,Friday,56,Maintenance,2,2,400,0
+2025-05-16,Friday,56,Security,2,2,300,0
+2025-05-17,Saturday,67,Front Desk,3,3,750,0
+2025-05-17,Saturday,67,Housekeeping,5,6,1080,0
+2025-05-17,Saturday,67,Restaurant,4,6,1320,1
+2025-05-17,Saturday,67,Maintenance,2,3,600,0
+2025-05-17,Saturday,67,Security,2,2,300,0
+2025-05-18,Sunday,68,Front Desk,3,5,1250,1
+2025-05-18,Sunday,68,Housekeeping,5,5,900,0
+2025-05-18,Sunday,68,Restaurant,4,4,880,0
+2025-05-18,Sunday,68,Maintenance,2,4,800,1
+2025-05-18,Sunday,68,Security,2,3,450,0
+2025-05-19,Monday,53,Front Desk,3,5,1250,1
+2025-05-19,Monday,53,Housekeeping,5,5,900,0
+2025-05-19,Monday,53,Restaurant,4,6,1320,1
+2025-05-19,Monday,53,Maintenance,2,2,400,0
+2025-05-19,Monday,53,Security,2,2,300,0
+2025-05-20,Tuesday,56,Front Desk,3,3,750,0
+2025-05-20,Tuesday,56,Housekeeping,5,7,1260,1
+2025-05-20,Tuesday,56,Restaurant,4,5,1100,0
+2025-05-20,Tuesday,56,Maintenance,2,4,800,1
+2025-05-20,Tuesday,56,Security,2,2,300,0
+2025-05-21,Wednesday,62,Front Desk,3,4,1000,0
+2025-05-21,Wednesday,62,Housekeeping,5,6,1080,0
+2025-05-21,Wednesday,62,Restaurant,4,6,1320,1
+2025-05-21,Wednesday,62,Maintenance,2,4,800,1
+2025-05-21,Wednesday,62,Security,2,2,300,0
+2025-05-22,Thursday,58,Front Desk,3,3,750,0
+2025-05-22,Thursday,58,Housekeeping,5,5,900,0
+2025-05-22,Thursday,58,Restaurant,4,4,880,0
+2025-05-22,Thursday,58,Maintenance,2,3,600,0
+2025-05-22,Thursday,58,Security,2,3,450,0
+2025-05-23,Friday,62,Front Desk,3,5,1250,1
+2025-05-23,Friday,62,Housekeeping,5,5,900,0
+2025-05-23,Friday,62,Restaurant,4,5,1100,0
+2025-05-23,Friday,62,Maintenance,2,4,800,1
+2025-05-23,Friday,62,Security,2,2,300,0
+2025-05-24,Saturday,69,Front Desk,3,5,1250,1
+2025-05-24,Saturday,69,Housekeeping,5,5,900,0
+2025-05-24,Saturday,69,Restaurant,4,4,880,0
+2025-05-24,Saturday,69,Maintenance,2,2,400,0
+2025-05-24,Saturday,69,Security,2,3,450,0
+2025-05-25,Sunday,69,Front Desk,3,5,1250,1
+2025-05-25,Sunday,69,Housekeeping,5,5,900,0
+2025-05-25,Sunday,69,Restaurant,4,5,1100,0
+2025-05-25,Sunday,69,Maintenance,2,4,800,1
+2025-05-25,Sunday,69,Security,2,4,600,1
+2025-05-26,Monday,57,Front Desk,3,4,1000,0
+2025-05-26,Monday,57,Housekeeping,5,7,1260,1
+2025-05-26,Monday,57,Restaurant,4,4,880,0
+2025-05-26,Monday,57,Maintenance,2,3,600,0
+2025-05-26,Monday,57,Security,2,2,300,0
+2025-05-27,Tuesday,61,Front Desk,3,4,1000,0
+2025-05-27,Tuesday,61,Housekeeping,5,5,900,0
+2025-05-27,Tuesday,61,Restaurant,4,4,880,0
+2025-05-27,Tuesday,61,Maintenance,2,2,400,0
+2025-05-27,Tuesday,61,Security,2,3,450,0
+2025-05-28,Wednesday,54,Front Desk,3,5,1250,1
+2025-05-28,Wednesday,54,Housekeeping,5,5,900,0
+2025-05-28,Wednesday,54,Restaurant,4,5,1100,0
+2025-05-28,Wednesday,54,Maintenance,2,2,400,0
+2025-05-28,Wednesday,54,Security,2,2,300,0
+2025-05-29,Thursday,61,Front Desk,3,4,1000,0
+2025-05-29,Thursday,61,Housekeeping,5,6,1080,0
+2025-05-29,Thursday,61,Restaurant,4,6,1320,1
+2025-05-29,Thursday,61,Maintenance,2,3,600,0
+2025-05-29,Thursday,61,Security,2,2,300,0
+2025-05-30,Friday,58,Front Desk,3,4,1000,0
+2025-05-30,Friday,58,Housekeeping,5,6,1080,0
+2025-05-30,Friday,58,Restaurant,4,4,880,0
+2025-05-30,Friday,58,Maintenance,2,2,400,0
+2025-05-30,Friday,58,Security,2,2,300,0
+2025-05-31,Saturday,68,Front Desk,3,3,750,0
+2025-05-31,Saturday,68,Housekeeping,5,5,900,0
+2025-05-31,Saturday,68,Restaurant,4,5,1100,0
+2025-05-31,Saturday,68,Maintenance,2,3,600,0
+2025-05-31,Saturday,68,Security,2,3,450,0
+2025-06-01,Sunday,81,Front Desk,3,4,1000,0
+2025-06-01,Sunday,81,Housekeeping,6,7,1260,0
+2025-06-01,Sunday,81,Restaurant,4,4,880,0
+2025-06-01,Sunday,81,Maintenance,2,3,600,0
+2025-06-01,Sunday,81,Security,2,2,300,0
+2025-06-02,Monday,69,Front Desk,3,3,750,0
+2025-06-02,Monday,69,Housekeeping,5,5,900,0
+2025-06-02,Monday,69,Restaurant,4,5,1100,0
+2025-06-02,Monday,69,Maintenance,2,3,600,0
+2025-06-02,Monday,69,Security,2,4,600,1
+2025-06-03,Tuesday,71,Front Desk,3,5,1250,1
+2025-06-03,Tuesday,71,Housekeeping,5,6,1080,0
+2025-06-03,Tuesday,71,Restaurant,4,4,880,0
+2025-06-03,Tuesday,71,Maintenance,2,2,400,0
+2025-06-03,Tuesday,71,Security,2,2,300,0
+2025-06-04,Wednesday,68,Front Desk,3,3,750,0
+2025-06-04,Wednesday,68,Housekeeping,5,5,900,0
+2025-06-04,Wednesday,68,Restaurant,4,4,880,0
+2025-06-04,Wednesday,68,Maintenance,2,2,400,0
+2025-06-04,Wednesday,68,Security,2,4,600,1
+2025-06-05,Thursday,69,Front Desk,3,5,1250,1
+2025-06-05,Thursday,69,Housekeeping,5,5,900,0
+2025-06-05,Thursday,69,Restaurant,4,4,880,0
+2025-06-05,Thursday,69,Maintenance,2,2,400,0
+2025-06-05,Thursday,69,Security,2,2,300,0
+2025-06-06,Friday,83,Front Desk,3,5,1250,1
+2025-06-06,Friday,83,Housekeeping,6,7,1260,0
+2025-06-06,Friday,83,Restaurant,4,5,1100,0
+2025-06-06,Friday,83,Maintenance,2,3,600,0
+2025-06-06,Friday,83,Security,2,2,300,0
+2025-06-07,Saturday,84,Front Desk,3,5,1250,1
+2025-06-07,Saturday,84,Housekeeping,6,7,1260,0
+2025-06-07,Saturday,84,Restaurant,4,4,880,0
+2025-06-07,Saturday,84,Maintenance,2,3,600,0
+2025-06-07,Saturday,84,Security,2,2,300,0
+2025-06-08,Sunday,86,Front Desk,3,3,750,0
+2025-06-08,Sunday,86,Housekeeping,6,6,1080,0
+2025-06-08,Sunday,86,Restaurant,4,4,880,0
+2025-06-08,Sunday,86,Maintenance,2,2,400,0
+2025-06-08,Sunday,86,Security,2,2,300,0
+2025-06-09,Monday,82,Front Desk,3,4,1000,0
+2025-06-09,Monday,82,Housekeeping,6,6,1080,0
+2025-06-09,Monday,82,Restaurant,4,4,880,0
+2025-06-09,Monday,82,Maintenance,2,2,400,0
+2025-06-09,Monday,82,Security,2,2,300,0
+2025-06-10,Tuesday,87,Front Desk,3,5,1250,1
+2025-06-10,Tuesday,87,Housekeeping,6,5,900,0
+2025-06-10,Tuesday,87,Restaurant,4,4,880,0
+2025-06-10,Tuesday,87,Maintenance,2,2,400,0
+2025-06-10,Tuesday,87,Security,2,4,600,1
+2025-06-11,Wednesday,83,Front Desk,3,5,1250,1
+2025-06-11,Wednesday,83,Housekeeping,6,5,900,0
+2025-06-11,Wednesday,83,Restaurant,4,4,880,0
+2025-06-11,Wednesday,83,Maintenance,2,2,400,0
+2025-06-11,Wednesday,83,Security,2,2,300,0
+2025-06-12,Thursday,81,Front Desk,3,3,750,0
+2025-06-12,Thursday,81,Housekeeping,6,8,1440,1
+2025-06-12,Thursday,81,Restaurant,4,4,880,0
+2025-06-12,Thursday,81,Maintenance,2,3,600,0
+2025-06-12,Thursday,81,Security,2,2,300,0
+2025-06-13,Friday,85,Front Desk,3,3,750,0
+2025-06-13,Friday,85,Housekeeping,6,7,1260,0
+2025-06-13,Friday,85,Restaurant,4,4,880,0
+2025-06-13,Friday,85,Maintenance,2,2,400,0
+2025-06-13,Friday,85,Security,2,2,300,0
+2025-06-14,Saturday,80,Front Desk,3,3,750,0
+2025-06-14,Saturday,80,Housekeeping,6,6,1080,0
+2025-06-14,Saturday,80,Restaurant,4,4,880,0
+2025-06-14,Saturday,80,Maintenance,2,3,600,0
+2025-06-14,Saturday,80,Security,2,2,300,0
+2025-06-15,Sunday,82,Front Desk,3,3,750,0
+2025-06-15,Sunday,82,Housekeeping,6,6,1080,0
+2025-06-15,Sunday,82,Restaurant,4,5,1100,0
+2025-06-15,Sunday,82,Maintenance,2,3,600,0
+2025-06-15,Sunday,82,Security,2,3,450,0
+2025-06-16,Monday,65,Front Desk,3,3,750,0
+2025-06-16,Monday,65,Housekeeping,5,5,900,0
+2025-06-16,Monday,65,Restaurant,4,4,880,0
+2025-06-16,Monday,65,Maintenance,2,2,400,0
+2025-06-16,Monday,65,Security,2,2,300,0
+2025-06-17,Tuesday,75,Front Desk,3,3,750,0
+2025-06-17,Tuesday,75,Housekeeping,6,6,1080,0
+2025-06-17,Tuesday,75,Restaurant,4,5,1100,0
+2025-06-17,Tuesday,75,Maintenance,2,2,400,0
+2025-06-17,Tuesday,75,Security,2,2,300,0
+2025-06-18,Wednesday,71,Front Desk,3,3,750,0
+2025-06-18,Wednesday,71,Housekeeping,5,5,900,0
+2025-06-18,Wednesday,71,Restaurant,4,6,1320,1
+2025-06-18,Wednesday,71,Maintenance,2,3,600,0
+2025-06-18,Wednesday,71,Security,2,2,300,0
+2025-06-19,Thursday,69,Front Desk,3,5,1250,1
+2025-06-19,Thursday,69,Housekeeping,5,5,900,0
+2025-06-19,Thursday,69,Restaurant,4,4,880,0
+2025-06-19,Thursday,69,Maintenance,2,3,600,0
+2025-06-19,Thursday,69,Security,2,4,600,1
+2025-06-20,Friday,74,Front Desk,3,5,1250,1
+2025-06-20,Friday,74,Housekeeping,5,5,900,0
+2025-06-20,Friday,74,Restaurant,4,4,880,0
+2025-06-20,Friday,74,Maintenance,2,4,800,1
+2025-06-20,Friday,74,Security,2,2,300,0
+2025-06-21,Saturday,77,Front Desk,3,4,1000,0
+2025-06-21,Saturday,77,Housekeeping,6,5,900,0
+2025-06-21,Saturday,77,Restaurant,4,6,1320,1
+2025-06-21,Saturday,77,Maintenance,2,2,400,0
+2025-06-21,Saturday,77,Security,2,2,300,0
+2025-06-22,Sunday,85,Front Desk,3,5,1250,1
+2025-06-22,Sunday,85,Housekeeping,6,7,1260,0
+2025-06-22,Sunday,85,Restaurant,4,5,1100,0
+2025-06-22,Sunday,85,Maintenance,2,2,400,0
+2025-06-22,Sunday,85,Security,2,2,300,0
+2025-06-23,Monday,70,Front Desk,3,4,1000,0
+2025-06-23,Monday,70,Housekeeping,5,7,1260,1
+2025-06-23,Monday,70,Restaurant,4,4,880,0
+2025-06-23,Monday,70,Maintenance,2,4,800,1
+2025-06-23,Monday,70,Security,2,3,450,0
+2025-06-24,Tuesday,64,Front Desk,3,5,1250,1
+2025-06-24,Tuesday,64,Housekeeping,5,6,1080,0
+2025-06-24,Tuesday,64,Restaurant,4,6,1320,1
+2025-06-24,Tuesday,64,Maintenance,2,2,400,0
+2025-06-24,Tuesday,64,Security,2,4,600,1
+2025-06-25,Wednesday,72,Front Desk,3,4,1000,0
+2025-06-25,Wednesday,72,Housekeeping,5,7,1260,1
+2025-06-25,Wednesday,72,Restaurant,4,4,880,0
+2025-06-25,Wednesday,72,Maintenance,2,2,400,0
+2025-06-25,Wednesday,72,Security,2,4,600,1
+2025-06-26,Thursday,68,Front Desk,3,4,1000,0
+2025-06-26,Thursday,68,Housekeeping,5,5,900,0
+2025-06-26,Thursday,68,Restaurant,4,4,880,0
+2025-06-26,Thursday,68,Maintenance,2,4,800,1
+2025-06-26,Thursday,68,Security,2,2,300,0
+2025-06-27,Friday,70,Front Desk,3,5,1250,1
+2025-06-27,Friday,70,Housekeeping,5,7,1260,1
+2025-06-27,Friday,70,Restaurant,4,4,880,0
+2025-06-27,Friday,70,Maintenance,2,2,400,0
+2025-06-27,Friday,70,Security,2,2,300,0
+2025-06-28,Saturday,76,Front Desk,3,5,1250,1
+2025-06-28,Saturday,76,Housekeeping,6,8,1440,1
+2025-06-28,Saturday,76,Restaurant,4,4,880,0
+2025-06-28,Saturday,76,Maintenance,2,2,400,0
+2025-06-28,Saturday,76,Security,2,2,300,0
+2025-06-29,Sunday,80,Front Desk,3,4,1000,0
+2025-06-29,Sunday,80,Housekeeping,6,6,1080,0
+2025-06-29,Sunday,80,Restaurant,4,5,1100,0
+2025-06-29,Sunday,80,Maintenance,2,2,400,0
+2025-06-29,Sunday,80,Security,2,4,600,1
+2025-06-30,Monday,71,Front Desk,3,3,750,0
+2025-06-30,Monday,71,Housekeeping,5,5,900,0
+2025-06-30,Monday,71,Restaurant,4,6,1320,1
+2025-06-30,Monday,71,Maintenance,2,4,800,1
+2025-06-30,Monday,71,Security,2,3,450,0
+2025-07-01,Tuesday,69,Front Desk,3,4,1000,0
+2025-07-01,Tuesday,69,Housekeeping,5,7,1260,1
+2025-07-01,Tuesday,69,Restaurant,4,5,1100,0
+2025-07-01,Tuesday,69,Maintenance,2,4,800,1
+2025-07-01,Tuesday,69,Security,2,4,600,1
+2025-07-02,Wednesday,69,Front Desk,3,5,1250,1
+2025-07-02,Wednesday,69,Housekeeping,5,6,1080,0
+2025-07-02,Wednesday,69,Restaurant,4,4,880,0
+2025-07-02,Wednesday,69,Maintenance,2,4,800,1
+2025-07-02,Wednesday,69,Security,2,2,300,0
+2025-07-03,Thursday,68,Front Desk,3,3,750,0
+2025-07-03,Thursday,68,Housekeeping,5,6,1080,0
+2025-07-03,Thursday,68,Restaurant,4,6,1320,1
+2025-07-03,Thursday,68,Maintenance,2,4,800,1
+2025-07-03,Thursday,68,Security,2,2,300,0
+2025-07-04,Friday,70,Front Desk,3,3,750,0
+2025-07-04,Friday,70,Housekeeping,5,5,900,0
+2025-07-04,Friday,70,Restaurant,4,4,880,0
+2025-07-04,Friday,70,Maintenance,2,2,400,0
+2025-07-04,Friday,70,Security,2,2,300,0
+2025-07-05,Saturday,81,Front Desk,3,5,1250,1
+2025-07-05,Saturday,81,Housekeeping,6,5,900,0
+2025-07-05,Saturday,81,Restaurant,4,4,880,0
+2025-07-05,Saturday,81,Maintenance,2,4,800,1
+2025-07-05,Saturday,81,Security,2,3,450,0
+2025-07-06,Sunday,80,Front Desk,3,3,750,0
+2025-07-06,Sunday,80,Housekeeping,6,7,1260,0
+2025-07-06,Sunday,80,Restaurant,4,4,880,0
+2025-07-06,Sunday,80,Maintenance,2,2,400,0
+2025-07-06,Sunday,80,Security,2,4,600,1
+2025-07-07,Monday,68,Front Desk,3,5,1250,1
+2025-07-07,Monday,68,Housekeeping,5,5,900,0
+2025-07-07,Monday,68,Restaurant,4,5,1100,0
+2025-07-07,Monday,68,Maintenance,2,4,800,1
+2025-07-07,Monday,68,Security,2,4,600,1
+2025-07-08,Tuesday,71,Front Desk,3,4,1000,0
+2025-07-08,Tuesday,71,Housekeeping,5,6,1080,0
+2025-07-08,Tuesday,71,Restaurant,4,4,880,0
+2025-07-08,Tuesday,71,Maintenance,2,2,400,0
+2025-07-08,Tuesday,71,Security,2,4,600,1
+2025-07-09,Wednesday,69,Front Desk,3,3,750,0
+2025-07-09,Wednesday,69,Housekeeping,5,7,1260,1
+2025-07-09,Wednesday,69,Restaurant,4,6,1320,1
+2025-07-09,Wednesday,69,Maintenance,2,3,600,0
+2025-07-09,Wednesday,69,Security,2,4,600,1
+2025-07-10,Thursday,67,Front Desk,3,5,1250,1
+2025-07-10,Thursday,67,Housekeeping,5,7,1260,1
+2025-07-10,Thursday,67,Restaurant,4,4,880,0
+2025-07-10,Thursday,67,Maintenance,2,2,400,0
+2025-07-10,Thursday,67,Security,2,2,300,0
+2025-07-11,Friday,76,Front Desk,3,4,1000,0
+2025-07-11,Friday,76,Housekeeping,6,6,1080,0
+2025-07-11,Friday,76,Restaurant,4,6,1320,1
+2025-07-11,Friday,76,Maintenance,2,4,800,1
+2025-07-11,Friday,76,Security,2,2,300,0
+2025-07-12,Saturday,81,Front Desk,3,4,1000,0
+2025-07-12,Saturday,81,Housekeeping,6,8,1440,1
+2025-07-12,Saturday,81,Restaurant,4,6,1320,1
+2025-07-12,Saturday,81,Maintenance,2,2,400,0
+2025-07-12,Saturday,81,Security,2,4,600,1
+2025-07-13,Sunday,83,Front Desk,3,5,1250,1
+2025-07-13,Sunday,83,Housekeeping,6,8,1440,1
+2025-07-13,Sunday,83,Restaurant,4,4,880,0
+2025-07-13,Sunday,83,Maintenance,2,2,400,0
+2025-07-13,Sunday,83,Security,2,4,600,1
+2025-07-14,Monday,65,Front Desk,3,4,1000,0
+2025-07-14,Monday,65,Housekeeping,5,7,1260,1
+2025-07-14,Monday,65,Restaurant,4,6,1320,1
+2025-07-14,Monday,65,Maintenance,2,3,600,0
+2025-07-14,Monday,65,Security,2,3,450,0
+2025-07-15,Tuesday,68,Front Desk,3,4,1000,0
+2025-07-15,Tuesday,68,Housekeeping,5,5,900,0
+2025-07-15,Tuesday,68,Restaurant,4,4,880,0
+2025-07-15,Tuesday,68,Maintenance,2,2,400,0
+2025-07-15,Tuesday,68,Security,2,2,300,0
+2025-07-16,Wednesday,68,Front Desk,3,4,1000,0
+2025-07-16,Wednesday,68,Housekeeping,5,6,1080,0
+2025-07-16,Wednesday,68,Restaurant,4,4,880,0
+2025-07-16,Wednesday,68,Maintenance,2,3,600,0
+2025-07-16,Wednesday,68,Security,2,4,600,1
+2025-07-17,Thursday,82,Front Desk,3,3,750,0
+2025-07-17,Thursday,82,Housekeeping,6,8,1440,1
+2025-07-17,Thursday,82,Restaurant,4,5,1100,0
+2025-07-17,Thursday,82,Maintenance,2,3,600,0
+2025-07-17,Thursday,82,Security,2,4,600,1
+2025-07-18,Friday,89,Front Desk,3,4,1000,0
+2025-07-18,Friday,89,Housekeeping,7,6,1080,0
+2025-07-18,Friday,89,Restaurant,4,4,880,0
+2025-07-18,Friday,89,Maintenance,2,2,400,0
+2025-07-18,Friday,89,Security,2,2,300,0
+2025-07-19,Saturday,88,Front Desk,3,4,1000,0
+2025-07-19,Saturday,88,Housekeeping,7,6,1080,0
+2025-07-19,Saturday,88,Restaurant,4,4,880,0
+2025-07-19,Saturday,88,Maintenance,2,3,600,0
+2025-07-19,Saturday,88,Security,2,2,300,0
+2025-07-20,Sunday,83,Front Desk,3,4,1000,0
+2025-07-20,Sunday,83,Housekeeping,6,6,1080,0
+2025-07-20,Sunday,83,Restaurant,4,4,880,0
+2025-07-20,Sunday,83,Maintenance,2,3,600,0
+2025-07-20,Sunday,83,Security,2,2,300,0
+2025-07-21,Monday,85,Front Desk,3,5,1250,1
+2025-07-21,Monday,85,Housekeeping,6,8,1440,1
+2025-07-21,Monday,85,Restaurant,4,6,1320,1
+2025-07-21,Monday,85,Maintenance,2,3,600,0
+2025-07-21,Monday,85,Security,2,2,300,0
+2025-07-22,Tuesday,90,Front Desk,3,5,1250,1
+2025-07-22,Tuesday,90,Housekeeping,7,6,1080,0
+2025-07-22,Tuesday,90,Restaurant,4,5,1100,0
+2025-07-22,Tuesday,90,Maintenance,2,4,800,1
+2025-07-22,Tuesday,90,Security,2,4,600,1
+2025-07-23,Wednesday,82,Front Desk,3,4,1000,0
+2025-07-23,Wednesday,82,Housekeeping,6,5,900,0
+2025-07-23,Wednesday,82,Restaurant,4,6,1320,1
+2025-07-23,Wednesday,82,Maintenance,2,2,400,0
+2025-07-23,Wednesday,82,Security,2,2,300,0
+2025-07-24,Thursday,82,Front Desk,3,4,1000,0
+2025-07-24,Thursday,82,Housekeeping,6,8,1440,1
+2025-07-24,Thursday,82,Restaurant,4,5,1100,0
+2025-07-24,Thursday,82,Maintenance,2,2,400,0
+2025-07-24,Thursday,82,Security,2,3,450,0
+2025-07-25,Friday,81,Front Desk,3,4,1000,0
+2025-07-25,Friday,81,Housekeeping,6,8,1440,1
+2025-07-25,Friday,81,Restaurant,4,4,880,0
+2025-07-25,Friday,81,Maintenance,2,4,800,1
+2025-07-25,Friday,81,Security,2,2,300,0
+2025-07-26,Saturday,85,Front Desk,3,3,750,0
+2025-07-26,Saturday,85,Housekeeping,6,7,1260,0
+2025-07-26,Saturday,85,Restaurant,4,5,1100,0
+2025-07-26,Saturday,85,Maintenance,2,2,400,0
+2025-07-26,Saturday,85,Security,2,3,450,0
+2025-07-27,Sunday,90,Front Desk,3,5,1250,1
+2025-07-27,Sunday,90,Housekeeping,7,7,1260,0
+2025-07-27,Sunday,90,Restaurant,4,4,880,0
+2025-07-27,Sunday,90,Maintenance,2,2,400,0
+2025-07-27,Sunday,90,Security,2,3,450,0
+2025-07-28,Monday,85,Front Desk,3,4,1000,0
+2025-07-28,Monday,85,Housekeeping,6,5,900,0
+2025-07-28,Monday,85,Restaurant,4,6,1320,1
+2025-07-28,Monday,85,Maintenance,2,4,800,1
+2025-07-28,Monday,85,Security,2,2,300,0
+2025-07-29,Tuesday,87,Front Desk,3,4,1000,0
+2025-07-29,Tuesday,87,Housekeeping,6,5,900,0
+2025-07-29,Tuesday,87,Restaurant,4,5,1100,0
+2025-07-29,Tuesday,87,Maintenance,2,3,600,0
+2025-07-29,Tuesday,87,Security,2,4,600,1
+2025-07-30,Wednesday,86,Front Desk,3,4,1000,0
+2025-07-30,Wednesday,86,Housekeeping,6,6,1080,0
+2025-07-30,Wednesday,86,Restaurant,4,6,1320,1
+2025-07-30,Wednesday,86,Maintenance,2,4,800,1
+2025-07-30,Wednesday,86,Security,2,3,450,0
+2025-07-31,Thursday,84,Front Desk,3,5,1250,1
+2025-07-31,Thursday,84,Housekeeping,6,6,1080,0
+2025-07-31,Thursday,84,Restaurant,4,4,880,0
+2025-07-31,Thursday,84,Maintenance,2,2,400,0
+2025-07-31,Thursday,84,Security,2,4,600,1
+2025-08-01,Friday,88,Front Desk,3,3,750,0
+2025-08-01,Friday,88,Housekeeping,7,9,1620,1
+2025-08-01,Friday,88,Restaurant,4,5,1100,0
+2025-08-01,Friday,88,Maintenance,2,4,800,1
+2025-08-01,Friday,88,Security,2,2,300,0
+2025-08-02,Saturday,86,Front Desk,3,3,750,0
+2025-08-02,Saturday,86,Housekeeping,6,7,1260,0
+2025-08-02,Saturday,86,Restaurant,4,6,1320,1
+2025-08-02,Saturday,86,Maintenance,2,2,400,0
+2025-08-02,Saturday,86,Security,2,2,300,0
+2025-08-03,Sunday,86,Front Desk,3,3,750,0
+2025-08-03,Sunday,86,Housekeeping,6,7,1260,0
+2025-08-03,Sunday,86,Restaurant,4,6,1320,1
+2025-08-03,Sunday,86,Maintenance,2,4,800,1
+2025-08-03,Sunday,86,Security,2,3,450,0
+2025-08-04,Monday,86,Front Desk,3,3,750,0
+2025-08-04,Monday,86,Housekeeping,6,6,1080,0
+2025-08-04,Monday,86,Restaurant,4,6,1320,1
+2025-08-04,Monday,86,Maintenance,2,3,600,0
+2025-08-04,Monday,86,Security,2,3,450,0
+2025-08-05,Tuesday,88,Front Desk,3,3,750,0
+2025-08-05,Tuesday,88,Housekeeping,7,8,1440,0
+2025-08-05,Tuesday,88,Restaurant,4,4,880,0
+2025-08-05,Tuesday,88,Maintenance,2,4,800,1
+2025-08-05,Tuesday,88,Security,2,2,300,0
+2025-08-06,Wednesday,85,Front Desk,3,3,750,0
+2025-08-06,Wednesday,85,Housekeeping,6,6,1080,0
+2025-08-06,Wednesday,85,Restaurant,4,4,880,0
+2025-08-06,Wednesday,85,Maintenance,2,2,400,0
+2025-08-06,Wednesday,85,Security,2,2,300,0
+2025-08-07,Thursday,81,Front Desk,3,4,1000,0
+2025-08-07,Thursday,81,Housekeeping,6,8,1440,1
+2025-08-07,Thursday,81,Restaurant,4,6,1320,1
+2025-08-07,Thursday,81,Maintenance,2,4,800,1
+2025-08-07,Thursday,81,Security,2,4,600,1
+2025-08-08,Friday,86,Front Desk,3,3,750,0
+2025-08-08,Friday,86,Housekeeping,6,6,1080,0
+2025-08-08,Friday,86,Restaurant,4,4,880,0
+2025-08-08,Friday,86,Maintenance,2,3,600,0
+2025-08-08,Friday,86,Security,2,2,300,0
+2025-08-09,Saturday,89,Front Desk,3,3,750,0
+2025-08-09,Saturday,89,Housekeeping,7,8,1440,0
+2025-08-09,Saturday,89,Restaurant,4,5,1100,0
+2025-08-09,Saturday,89,Maintenance,2,2,400,0
+2025-08-09,Saturday,89,Security,2,2,300,0
+2025-08-10,Sunday,85,Front Desk,3,5,1250,1
+2025-08-10,Sunday,85,Housekeeping,6,5,900,0
+2025-08-10,Sunday,85,Restaurant,4,4,880,0
+2025-08-10,Sunday,85,Maintenance,2,2,400,0
+2025-08-10,Sunday,85,Security,2,3,450,0
+2025-08-11,Monday,87,Front Desk,3,4,1000,0
+2025-08-11,Monday,87,Housekeeping,6,5,900,0
+2025-08-11,Monday,87,Restaurant,4,6,1320,1
+2025-08-11,Monday,87,Maintenance,2,3,600,0
+2025-08-11,Monday,87,Security,2,2,300,0
+2025-08-12,Tuesday,87,Front Desk,3,5,1250,1
+2025-08-12,Tuesday,87,Housekeeping,6,6,1080,0
+2025-08-12,Tuesday,87,Restaurant,4,4,880,0
+2025-08-12,Tuesday,87,Maintenance,2,2,400,0
+2025-08-12,Tuesday,87,Security,2,2,300,0
+2025-08-13,Wednesday,89,Front Desk,3,4,1000,0
+2025-08-13,Wednesday,89,Housekeeping,7,9,1620,1
+2025-08-13,Wednesday,89,Restaurant,4,4,880,0
+2025-08-13,Wednesday,89,Maintenance,2,2,400,0
+2025-08-13,Wednesday,89,Security,2,2,300,0
+2025-08-14,Thursday,88,Front Desk,3,4,1000,0
+2025-08-14,Thursday,88,Housekeeping,7,8,1440,0
+2025-08-14,Thursday,88,Restaurant,4,6,1320,1
+2025-08-14,Thursday,88,Maintenance,2,2,400,0
+2025-08-14,Thursday,88,Security,2,4,600,1
+2025-08-15,Friday,86,Front Desk,3,3,750,0
+2025-08-15,Friday,86,Housekeeping,6,6,1080,0
+2025-08-15,Friday,86,Restaurant,4,4,880,0
+2025-08-15,Friday,86,Maintenance,2,2,400,0
+2025-08-15,Friday,86,Security,2,2,300,0
+2025-08-16,Saturday,85,Front Desk,3,4,1000,0
+2025-08-16,Saturday,85,Housekeeping,6,8,1440,1
+2025-08-16,Saturday,85,Restaurant,4,6,1320,1
+2025-08-16,Saturday,85,Maintenance,2,3,600,0
+2025-08-16,Saturday,85,Security,2,2,300,0
+2025-08-17,Sunday,80,Front Desk,3,5,1250,1
+2025-08-17,Sunday,80,Housekeeping,6,7,1260,0
+2025-08-17,Sunday,80,Restaurant,4,4,880,0
+2025-08-17,Sunday,80,Maintenance,2,3,600,0
+2025-08-17,Sunday,80,Security,2,4,600,1
+2025-08-18,Monday,67,Front Desk,3,5,1250,1
+2025-08-18,Monday,67,Housekeeping,5,5,900,0
+2025-08-18,Monday,67,Restaurant,4,5,1100,0
+2025-08-18,Monday,67,Maintenance,2,2,400,0
+2025-08-18,Monday,67,Security,2,3,450,0
+2025-08-19,Tuesday,63,Front Desk,3,5,1250,1
+2025-08-19,Tuesday,63,Housekeeping,5,6,1080,0
+2025-08-19,Tuesday,63,Restaurant,4,5,1100,0
+2025-08-19,Tuesday,63,Maintenance,2,2,400,0
+2025-08-19,Tuesday,63,Security,2,2,300,0
+2025-08-20,Wednesday,67,Front Desk,3,3,750,0
+2025-08-20,Wednesday,67,Housekeeping,5,5,900,0
+2025-08-20,Wednesday,67,Restaurant,4,5,1100,0
+2025-08-20,Wednesday,67,Maintenance,2,4,800,1
+2025-08-20,Wednesday,67,Security,2,3,450,0
+2025-08-21,Thursday,70,Front Desk,3,4,1000,0
+2025-08-21,Thursday,70,Housekeeping,5,5,900,0
+2025-08-21,Thursday,70,Restaurant,4,4,880,0
+2025-08-21,Thursday,70,Maintenance,2,4,800,1
+2025-08-21,Thursday,70,Security,2,4,600,1
+2025-08-22,Friday,67,Front Desk,3,3,750,0
+2025-08-22,Friday,67,Housekeeping,5,7,1260,1
+2025-08-22,Friday,67,Restaurant,4,5,1100,0
+2025-08-22,Friday,67,Maintenance,2,3,600,0
+2025-08-22,Friday,67,Security,2,2,300,0
+2025-08-23,Saturday,78,Front Desk,3,3,750,0
+2025-08-23,Saturday,78,Housekeeping,6,7,1260,0
+2025-08-23,Saturday,78,Restaurant,4,4,880,0
+2025-08-23,Saturday,78,Maintenance,2,2,400,0
+2025-08-23,Saturday,78,Security,2,4,600,1
+2025-08-24,Sunday,80,Front Desk,3,4,1000,0
+2025-08-24,Sunday,80,Housekeeping,6,8,1440,1
+2025-08-24,Sunday,80,Restaurant,4,4,880,0
+2025-08-24,Sunday,80,Maintenance,2,3,600,0
+2025-08-24,Sunday,80,Security,2,2,300,0
+2025-08-25,Monday,68,Front Desk,3,5,1250,1
+2025-08-25,Monday,68,Housekeeping,5,7,1260,1
+2025-08-25,Monday,68,Restaurant,4,6,1320,1
+2025-08-25,Monday,68,Maintenance,2,3,600,0
+2025-08-25,Monday,68,Security,2,4,600,1
+2025-08-26,Tuesday,70,Front Desk,3,3,750,0
+2025-08-26,Tuesday,70,Housekeeping,5,5,900,0
+2025-08-26,Tuesday,70,Restaurant,4,5,1100,0
+2025-08-26,Tuesday,70,Maintenance,2,2,400,0
+2025-08-26,Tuesday,70,Security,2,3,450,0
+2025-08-27,Wednesday,75,Front Desk,3,5,1250,1
+2025-08-27,Wednesday,75,Housekeeping,6,7,1260,0
+2025-08-27,Wednesday,75,Restaurant,4,6,1320,1
+2025-08-27,Wednesday,75,Maintenance,2,2,400,0
+2025-08-27,Wednesday,75,Security,2,2,300,0
+2025-08-28,Thursday,66,Front Desk,3,3,750,0
+2025-08-28,Thursday,66,Housekeeping,5,7,1260,1
+2025-08-28,Thursday,66,Restaurant,4,4,880,0
+2025-08-28,Thursday,66,Maintenance,2,2,400,0
+2025-08-28,Thursday,66,Security,2,4,600,1
+2025-08-29,Friday,71,Front Desk,3,3,750,0
+2025-08-29,Friday,71,Housekeeping,5,6,1080,0
+2025-08-29,Friday,71,Restaurant,4,5,1100,0
+2025-08-29,Friday,71,Maintenance,2,2,400,0
+2025-08-29,Friday,71,Security,2,2,300,0
+2025-08-30,Saturday,82,Front Desk,3,3,750,0
+2025-08-30,Saturday,82,Housekeeping,6,6,1080,0
+2025-08-30,Saturday,82,Restaurant,4,4,880,0
+2025-08-30,Saturday,82,Maintenance,2,4,800,1
+2025-08-30,Saturday,82,Security,2,3,450,0
+2025-08-31,Sunday,83,Front Desk,3,5,1250,1
+2025-08-31,Sunday,83,Housekeeping,6,8,1440,1
+2025-08-31,Sunday,83,Restaurant,4,4,880,0
+2025-08-31,Sunday,83,Maintenance,2,3,600,0
+2025-08-31,Sunday,83,Security,2,2,300,0
+2025-09-01,Monday,69,Front Desk,3,4,1000,0
+2025-09-01,Monday,69,Housekeeping,5,6,1080,0
+2025-09-01,Monday,69,Restaurant,4,4,880,0
+2025-09-01,Monday,69,Maintenance,2,2,400,0
+2025-09-01,Monday,69,Security,2,4,600,1
+2025-09-02,Tuesday,69,Front Desk,3,4,1000,0
+2025-09-02,Tuesday,69,Housekeeping,5,5,900,0
+2025-09-02,Tuesday,69,Restaurant,4,6,1320,1
+2025-09-02,Tuesday,69,Maintenance,2,4,800,1
+2025-09-02,Tuesday,69,Security,2,2,300,0
+2025-09-03,Wednesday,66,Front Desk,3,3,750,0
+2025-09-03,Wednesday,66,Housekeeping,5,5,900,0
+2025-09-03,Wednesday,66,Restaurant,4,4,880,0
+2025-09-03,Wednesday,66,Maintenance,2,2,400,0
+2025-09-03,Wednesday,66,Security,2,4,600,1
+2025-09-04,Thursday,65,Front Desk,3,3,750,0
+2025-09-04,Thursday,65,Housekeeping,5,6,1080,0
+2025-09-04,Thursday,65,Restaurant,4,4,880,0
+2025-09-04,Thursday,65,Maintenance,2,2,400,0
+2025-09-04,Thursday,65,Security,2,4,600,1
+2025-09-05,Friday,67,Front Desk,3,5,1250,1
+2025-09-05,Friday,67,Housekeeping,5,6,1080,0
+2025-09-05,Friday,67,Restaurant,4,4,880,0
+2025-09-05,Friday,67,Maintenance,2,2,400,0
+2025-09-05,Friday,67,Security,2,3,450,0
+2025-09-06,Saturday,77,Front Desk,3,3,750,0
+2025-09-06,Saturday,77,Housekeeping,6,5,900,0
+2025-09-06,Saturday,77,Restaurant,4,4,880,0
+2025-09-06,Saturday,77,Maintenance,2,4,800,1
+2025-09-06,Saturday,77,Security,2,4,600,1
+2025-09-07,Sunday,81,Front Desk,3,5,1250,1
+2025-09-07,Sunday,81,Housekeeping,6,5,900,0
+2025-09-07,Sunday,81,Restaurant,4,4,880,0
+2025-09-07,Sunday,81,Maintenance,2,2,400,0
+2025-09-07,Sunday,81,Security,2,2,300,0
+2025-09-08,Monday,67,Front Desk,3,4,1000,0
+2025-09-08,Monday,67,Housekeeping,5,6,1080,0
+2025-09-08,Monday,67,Restaurant,4,6,1320,1
+2025-09-08,Monday,67,Maintenance,2,4,800,1
+2025-09-08,Monday,67,Security,2,2,300,0
+2025-09-09,Tuesday,71,Front Desk,3,5,1250,1
+2025-09-09,Tuesday,71,Housekeeping,5,5,900,0
+2025-09-09,Tuesday,71,Restaurant,4,4,880,0
+2025-09-09,Tuesday,71,Maintenance,2,3,600,0
+2025-09-09,Tuesday,71,Security,2,2,300,0
+2025-09-10,Wednesday,65,Front Desk,3,5,1250,1
+2025-09-10,Wednesday,65,Housekeeping,5,5,900,0
+2025-09-10,Wednesday,65,Restaurant,4,6,1320,1
+2025-09-10,Wednesday,65,Maintenance,2,2,400,0
+2025-09-10,Wednesday,65,Security,2,2,300,0
+2025-09-11,Thursday,75,Front Desk,3,4,1000,0
+2025-09-11,Thursday,75,Housekeeping,6,7,1260,0
+2025-09-11,Thursday,75,Restaurant,4,4,880,0
+2025-09-11,Thursday,75,Maintenance,2,4,800,1
+2025-09-11,Thursday,75,Security,2,2,300,0
+2025-09-12,Friday,70,Front Desk,3,4,1000,0
+2025-09-12,Friday,70,Housekeeping,5,7,1260,1
+2025-09-12,Friday,70,Restaurant,4,4,880,0
+2025-09-12,Friday,70,Maintenance,2,2,400,0
+2025-09-12,Friday,70,Security,2,4,600,1
+2025-09-13,Saturday,82,Front Desk,3,3,750,0
+2025-09-13,Saturday,82,Housekeeping,6,7,1260,0
+2025-09-13,Saturday,82,Restaurant,4,6,1320,1
+2025-09-13,Saturday,82,Maintenance,2,2,400,0
+2025-09-13,Saturday,82,Security,2,4,600,1
+2025-09-14,Sunday,79,Front Desk,3,5,1250,1
+2025-09-14,Sunday,79,Housekeeping,6,7,1260,0
+2025-09-14,Sunday,79,Restaurant,4,4,880,0
+2025-09-14,Sunday,79,Maintenance,2,2,400,0
+2025-09-14,Sunday,79,Security,2,2,300,0
+2025-09-15,Monday,67,Front Desk,3,3,750,0
+2025-09-15,Monday,67,Housekeeping,5,6,1080,0
+2025-09-15,Monday,67,Restaurant,4,4,880,0
+2025-09-15,Monday,67,Maintenance,2,4,800,1
+2025-09-15,Monday,67,Security,2,3,450,0
+2025-09-16,Tuesday,69,Front Desk,3,3,750,0
+2025-09-16,Tuesday,69,Housekeeping,5,5,900,0
+2025-09-16,Tuesday,69,Restaurant,4,5,1100,0
+2025-09-16,Tuesday,69,Maintenance,2,4,800,1
+2025-09-16,Tuesday,69,Security,2,3,450,0
+2025-09-17,Wednesday,68,Front Desk,3,5,1250,1
+2025-09-17,Wednesday,68,Housekeeping,5,6,1080,0
+2025-09-17,Wednesday,68,Restaurant,4,4,880,0
+2025-09-17,Wednesday,68,Maintenance,2,2,400,0
+2025-09-17,Wednesday,68,Security,2,2,300,0
+2025-09-18,Thursday,74,Front Desk,3,4,1000,0
+2025-09-18,Thursday,74,Housekeeping,5,5,900,0
+2025-09-18,Thursday,74,Restaurant,4,6,1320,1
+2025-09-18,Thursday,74,Maintenance,2,3,600,0
+2025-09-18,Thursday,74,Security,2,4,600,1
+2025-09-19,Friday,71,Front Desk,3,3,750,0
+2025-09-19,Friday,71,Housekeeping,5,5,900,0
+2025-09-19,Friday,71,Restaurant,4,5,1100,0
+2025-09-19,Friday,71,Maintenance,2,4,800,1
+2025-09-19,Friday,71,Security,2,2,300,0
+2025-09-20,Saturday,76,Front Desk,3,4,1000,0
+2025-09-20,Saturday,76,Housekeeping,6,5,900,0
+2025-09-20,Saturday,76,Restaurant,4,5,1100,0
+2025-09-20,Saturday,76,Maintenance,2,2,400,0
+2025-09-20,Saturday,76,Security,2,2,300,0
+2025-09-21,Sunday,83,Front Desk,3,5,1250,1
+2025-09-21,Sunday,83,Housekeeping,6,7,1260,0
+2025-09-21,Sunday,83,Restaurant,4,5,1100,0
+2025-09-21,Sunday,83,Maintenance,2,4,800,1
+2025-09-21,Sunday,83,Security,2,3,450,0
+2025-09-22,Monday,66,Front Desk,3,4,1000,0
+2025-09-22,Monday,66,Housekeeping,5,6,1080,0
+2025-09-22,Monday,66,Restaurant,4,5,1100,0
+2025-09-22,Monday,66,Maintenance,2,4,800,1
+2025-09-22,Monday,66,Security,2,2,300,0
+2025-09-23,Tuesday,67,Front Desk,3,4,1000,0
+2025-09-23,Tuesday,67,Housekeeping,5,7,1260,1
+2025-09-23,Tuesday,67,Restaurant,4,4,880,0
+2025-09-23,Tuesday,67,Maintenance,2,4,800,1
+2025-09-23,Tuesday,67,Security,2,2,300,0
+2025-09-24,Wednesday,67,Front Desk,3,3,750,0
+2025-09-24,Wednesday,67,Housekeeping,5,5,900,0
+2025-09-24,Wednesday,67,Restaurant,4,4,880,0
+2025-09-24,Wednesday,67,Maintenance,2,2,400,0
+2025-09-24,Wednesday,67,Security,2,2,300,0
+2025-09-25,Thursday,72,Front Desk,3,3,750,0
+2025-09-25,Thursday,72,Housekeeping,5,7,1260,1
+2025-09-25,Thursday,72,Restaurant,4,5,1100,0
+2025-09-25,Thursday,72,Maintenance,2,2,400,0
+2025-09-25,Thursday,72,Security,2,4,600,1
+2025-09-26,Friday,73,Front Desk,3,5,1250,1
+2025-09-26,Friday,73,Housekeeping,5,5,900,0
+2025-09-26,Friday,73,Restaurant,4,6,1320,1
+2025-09-26,Friday,73,Maintenance,2,2,400,0
+2025-09-26,Friday,73,Security,2,4,600,1
+2025-09-27,Saturday,89,Front Desk,3,4,1000,0
+2025-09-27,Saturday,89,Housekeeping,7,9,1620,1
+2025-09-27,Saturday,89,Restaurant,4,6,1320,1
+2025-09-27,Saturday,89,Maintenance,2,4,800,1
+2025-09-27,Saturday,89,Security,2,2,300,0
+2025-09-28,Sunday,80,Front Desk,3,3,750,0
+2025-09-28,Sunday,80,Housekeeping,6,5,900,0
+2025-09-28,Sunday,80,Restaurant,4,5,1100,0
+2025-09-28,Sunday,80,Maintenance,2,2,400,0
+2025-09-28,Sunday,80,Security,2,2,300,0
+2025-09-29,Monday,83,Front Desk,3,4,1000,0
+2025-09-29,Monday,83,Housekeeping,6,6,1080,0
+2025-09-29,Monday,83,Restaurant,4,4,880,0
+2025-09-29,Monday,83,Maintenance,2,3,600,0
+2025-09-29,Monday,83,Security,2,2,300,0
+2025-09-30,Tuesday,86,Front Desk,3,3,750,0
+2025-09-30,Tuesday,86,Housekeeping,6,6,1080,0
+2025-09-30,Tuesday,86,Restaurant,4,6,1320,1
+2025-09-30,Tuesday,86,Maintenance,2,2,400,0
+2025-09-30,Tuesday,86,Security,2,2,300,0
+2025-10-01,Wednesday,83,Front Desk,3,5,1250,1
+2025-10-01,Wednesday,83,Housekeeping,6,5,900,0
+2025-10-01,Wednesday,83,Restaurant,4,5,1100,0
+2025-10-01,Wednesday,83,Maintenance,2,2,400,0
+2025-10-01,Wednesday,83,Security,2,3,450,0
+2025-10-02,Thursday,83,Front Desk,3,3,750,0
+2025-10-02,Thursday,83,Housekeeping,6,8,1440,1
+2025-10-02,Thursday,83,Restaurant,4,5,1100,0
+2025-10-02,Thursday,83,Maintenance,2,2,400,0
+2025-10-02,Thursday,83,Security,2,3,450,0
+2025-10-03,Friday,80,Front Desk,3,3,750,0
+2025-10-03,Friday,80,Housekeeping,6,5,900,0
+2025-10-03,Friday,80,Restaurant,4,4,880,0
+2025-10-03,Friday,80,Maintenance,2,4,800,1
+2025-10-03,Friday,80,Security,2,4,600,1
+2025-10-04,Saturday,63,Front Desk,3,5,1250,1
+2025-10-04,Saturday,63,Housekeeping,5,6,1080,0
+2025-10-04,Saturday,63,Restaurant,4,4,880,0
+2025-10-04,Saturday,63,Maintenance,2,3,600,0
+2025-10-04,Saturday,63,Security,2,2,300,0
+2025-10-05,Sunday,67,Front Desk,3,5,1250,1
+2025-10-05,Sunday,67,Housekeeping,5,6,1080,0
+2025-10-05,Sunday,67,Restaurant,4,4,880,0
+2025-10-05,Sunday,67,Maintenance,2,2,400,0
+2025-10-05,Sunday,67,Security,2,2,300,0
+2025-10-06,Monday,61,Front Desk,3,4,1000,0
+2025-10-06,Monday,61,Housekeeping,5,6,1080,0
+2025-10-06,Monday,61,Restaurant,4,4,880,0
+2025-10-06,Monday,61,Maintenance,2,2,400,0
+2025-10-06,Monday,61,Security,2,4,600,1
+2025-10-07,Tuesday,54,Front Desk,3,3,750,0
+2025-10-07,Tuesday,54,Housekeeping,5,7,1260,1
+2025-10-07,Tuesday,54,Restaurant,4,5,1100,0
+2025-10-07,Tuesday,54,Maintenance,2,2,400,0
+2025-10-07,Tuesday,54,Security,2,2,300,0
+2025-10-08,Wednesday,58,Front Desk,3,5,1250,1
+2025-10-08,Wednesday,58,Housekeeping,5,5,900,0
+2025-10-08,Wednesday,58,Restaurant,4,4,880,0
+2025-10-08,Wednesday,58,Maintenance,2,2,400,0
+2025-10-08,Wednesday,58,Security,2,2,300,0
+2025-10-09,Thursday,58,Front Desk,3,5,1250,1
+2025-10-09,Thursday,58,Housekeeping,5,7,1260,1
+2025-10-09,Thursday,58,Restaurant,4,5,1100,0
+2025-10-09,Thursday,58,Maintenance,2,2,400,0
+2025-10-09,Thursday,58,Security,2,2,300,0
+2025-10-10,Friday,58,Front Desk,3,4,1000,0
+2025-10-10,Friday,58,Housekeeping,5,7,1260,1
+2025-10-10,Friday,58,Restaurant,4,6,1320,1
+2025-10-10,Friday,58,Maintenance,2,3,600,0
+2025-10-10,Friday,58,Security,2,2,300,0
+2025-10-11,Saturday,67,Front Desk,3,4,1000,0
+2025-10-11,Saturday,67,Housekeeping,5,5,900,0
+2025-10-11,Saturday,67,Restaurant,4,5,1100,0
+2025-10-11,Saturday,67,Maintenance,2,2,400,0
+2025-10-11,Saturday,67,Security,2,4,600,1
+2025-10-12,Sunday,63,Front Desk,3,5,1250,1
+2025-10-12,Sunday,63,Housekeeping,5,7,1260,1
+2025-10-12,Sunday,63,Restaurant,4,6,1320,1
+2025-10-12,Sunday,63,Maintenance,2,3,600,0
+2025-10-12,Sunday,63,Security,2,4,600,1
+2025-10-13,Monday,62,Front Desk,3,3,750,0
+2025-10-13,Monday,62,Housekeeping,5,7,1260,1
+2025-10-13,Monday,62,Restaurant,4,5,1100,0
+2025-10-13,Monday,62,Maintenance,2,2,400,0
+2025-10-13,Monday,62,Security,2,4,600,1
+2025-10-14,Tuesday,56,Front Desk,3,5,1250,1
+2025-10-14,Tuesday,56,Housekeeping,5,5,900,0
+2025-10-14,Tuesday,56,Restaurant,4,4,880,0
+2025-10-14,Tuesday,56,Maintenance,2,3,600,0
+2025-10-14,Tuesday,56,Security,2,4,600,1
+2025-10-15,Wednesday,56,Front Desk,3,3,750,0
+2025-10-15,Wednesday,56,Housekeeping,5,5,900,0
+2025-10-15,Wednesday,56,Restaurant,4,6,1320,1
+2025-10-15,Wednesday,56,Maintenance,2,2,400,0
+2025-10-15,Wednesday,56,Security,2,3,450,0
+2025-10-16,Thursday,58,Front Desk,3,5,1250,1
+2025-10-16,Thursday,58,Housekeeping,5,7,1260,1
+2025-10-16,Thursday,58,Restaurant,4,4,880,0
+2025-10-16,Thursday,58,Maintenance,2,4,800,1
+2025-10-16,Thursday,58,Security,2,3,450,0
+2025-10-17,Friday,59,Front Desk,3,3,750,0
+2025-10-17,Friday,59,Housekeeping,5,5,900,0
+2025-10-17,Friday,59,Restaurant,4,5,1100,0
+2025-10-17,Friday,59,Maintenance,2,2,400,0
+2025-10-17,Friday,59,Security,2,4,600,1
+2025-10-18,Saturday,68,Front Desk,3,4,1000,0
+2025-10-18,Saturday,68,Housekeeping,5,5,900,0
+2025-10-18,Saturday,68,Restaurant,4,4,880,0
+2025-10-18,Saturday,68,Maintenance,2,2,400,0
+2025-10-18,Saturday,68,Security,2,2,300,0
+2025-10-19,Sunday,67,Front Desk,3,5,1250,1
+2025-10-19,Sunday,67,Housekeeping,5,7,1260,1
+2025-10-19,Sunday,67,Restaurant,4,4,880,0
+2025-10-19,Sunday,67,Maintenance,2,4,800,1
+2025-10-19,Sunday,67,Security,2,3,450,0
+2025-10-20,Monday,60,Front Desk,3,4,1000,0
+2025-10-20,Monday,60,Housekeeping,5,6,1080,0
+2025-10-20,Monday,60,Restaurant,4,4,880,0
+2025-10-20,Monday,60,Maintenance,2,2,400,0
+2025-10-20,Monday,60,Security,2,2,300,0
+2025-10-21,Tuesday,58,Front Desk,3,5,1250,1
+2025-10-21,Tuesday,58,Housekeeping,5,5,900,0
+2025-10-21,Tuesday,58,Restaurant,4,4,880,0
+2025-10-21,Tuesday,58,Maintenance,2,4,800,1
+2025-10-21,Tuesday,58,Security,2,2,300,0
+2025-10-22,Wednesday,57,Front Desk,3,3,750,0
+2025-10-22,Wednesday,57,Housekeeping,5,7,1260,1
+2025-10-22,Wednesday,57,Restaurant,4,5,1100,0
+2025-10-22,Wednesday,57,Maintenance,2,3,600,0
+2025-10-22,Wednesday,57,Security,2,4,600,1
+2025-10-23,Thursday,56,Front Desk,3,5,1250,1
+2025-10-23,Thursday,56,Housekeeping,5,6,1080,0
+2025-10-23,Thursday,56,Restaurant,4,5,1100,0
+2025-10-23,Thursday,56,Maintenance,2,2,400,0
+2025-10-23,Thursday,56,Security,2,2,300,0
+2025-10-24,Friday,55,Front Desk,3,3,750,0
+2025-10-24,Friday,55,Housekeeping,5,5,900,0
+2025-10-24,Friday,55,Restaurant,4,5,1100,0
+2025-10-24,Friday,55,Maintenance,2,2,400,0
+2025-10-24,Friday,55,Security,2,4,600,1
+2025-10-25,Saturday,68,Front Desk,3,3,750,0
+2025-10-25,Saturday,68,Housekeeping,5,5,900,0
+2025-10-25,Saturday,68,Restaurant,4,6,1320,1
+2025-10-25,Saturday,68,Maintenance,2,2,400,0
+2025-10-25,Saturday,68,Security,2,2,300,0
+2025-10-26,Sunday,70,Front Desk,3,3,750,0
+2025-10-26,Sunday,70,Housekeeping,5,7,1260,1
+2025-10-26,Sunday,70,Restaurant,4,6,1320,1
+2025-10-26,Sunday,70,Maintenance,2,4,800,1
+2025-10-26,Sunday,70,Security,2,4,600,1
+2025-10-27,Monday,65,Front Desk,3,4,1000,0
+2025-10-27,Monday,65,Housekeeping,5,6,1080,0
+2025-10-27,Monday,65,Restaurant,4,6,1320,1
+2025-10-27,Monday,65,Maintenance,2,3,600,0
+2025-10-27,Monday,65,Security,2,2,300,0
+2025-10-28,Tuesday,61,Front Desk,3,3,750,0
+2025-10-28,Tuesday,61,Housekeeping,5,5,900,0
+2025-10-28,Tuesday,61,Restaurant,4,4,880,0
+2025-10-28,Tuesday,61,Maintenance,2,2,400,0
+2025-10-28,Tuesday,61,Security,2,2,300,0
+2025-10-29,Wednesday,59,Front Desk,3,3,750,0
+2025-10-29,Wednesday,59,Housekeeping,5,5,900,0
+2025-10-29,Wednesday,59,Restaurant,4,4,880,0
+2025-10-29,Wednesday,59,Maintenance,2,2,400,0
+2025-10-29,Wednesday,59,Security,2,4,600,1
+2025-10-30,Thursday,58,Front Desk,3,3,750,0
+2025-10-30,Thursday,58,Housekeeping,5,5,900,0
+2025-10-30,Thursday,58,Restaurant,4,6,1320,1
+2025-10-30,Thursday,58,Maintenance,2,2,400,0
+2025-10-30,Thursday,58,Security,2,2,300,0
+2025-10-31,Friday,56,Front Desk,3,4,1000,0
+2025-10-31,Friday,56,Housekeeping,5,7,1260,1
+2025-10-31,Friday,56,Restaurant,4,4,880,0
+2025-10-31,Friday,56,Maintenance,2,4,800,1
+2025-10-31,Friday,56,Security,2,4,600,1
+2025-11-01,Saturday,68,Front Desk,3,3,750,0
+2025-11-01,Saturday,68,Housekeeping,5,5,900,0
+2025-11-01,Saturday,68,Restaurant,4,4,880,0
+2025-11-01,Saturday,68,Maintenance,2,2,400,0
+2025-11-01,Saturday,68,Security,2,4,600,1
+2025-11-02,Sunday,66,Front Desk,3,5,1250,1
+2025-11-02,Sunday,66,Housekeeping,5,7,1260,1
+2025-11-02,Sunday,66,Restaurant,4,4,880,0
+2025-11-02,Sunday,66,Maintenance,2,4,800,1
+2025-11-02,Sunday,66,Security,2,2,300,0
+2025-11-03,Monday,58,Front Desk,3,3,750,0
+2025-11-03,Monday,58,Housekeeping,5,6,1080,0
+2025-11-03,Monday,58,Restaurant,4,6,1320,1
+2025-11-03,Monday,58,Maintenance,2,2,400,0
+2025-11-03,Monday,58,Security,2,3,450,0
+2025-11-04,Tuesday,60,Front Desk,3,3,750,0
+2025-11-04,Tuesday,60,Housekeeping,5,5,900,0
+2025-11-04,Tuesday,60,Restaurant,4,6,1320,1
+2025-11-04,Tuesday,60,Maintenance,2,4,800,1
+2025-11-04,Tuesday,60,Security,2,4,600,1
+2025-11-05,Wednesday,50,Front Desk,3,4,1000,0
+2025-11-05,Wednesday,50,Housekeeping,5,5,900,0
+2025-11-05,Wednesday,50,Restaurant,4,6,1320,1
+2025-11-05,Wednesday,50,Maintenance,2,4,800,1
+2025-11-05,Wednesday,50,Security,2,4,600,1
+2025-11-06,Thursday,56,Front Desk,3,5,1250,1
+2025-11-06,Thursday,56,Housekeeping,5,5,900,0
+2025-11-06,Thursday,56,Restaurant,4,4,880,0
+2025-11-06,Thursday,56,Maintenance,2,2,400,0
+2025-11-06,Thursday,56,Security,2,4,600,1
+2025-11-07,Friday,57,Front Desk,3,4,1000,0
+2025-11-07,Friday,57,Housekeeping,5,5,900,0
+2025-11-07,Friday,57,Restaurant,4,5,1100,0
+2025-11-07,Friday,57,Maintenance,2,4,800,1
+2025-11-07,Friday,57,Security,2,4,600,1
+2025-11-08,Saturday,76,Front Desk,3,3,750,0
+2025-11-08,Saturday,76,Housekeeping,6,8,1440,1
+2025-11-08,Saturday,76,Restaurant,4,5,1100,0
+2025-11-08,Saturday,76,Maintenance,2,4,800,1
+2025-11-08,Saturday,76,Security,2,4,600,1
+2025-11-09,Sunday,68,Front Desk,3,3,750,0
+2025-11-09,Sunday,68,Housekeeping,5,5,900,0
+2025-11-09,Sunday,68,Restaurant,4,5,1100,0
+2025-11-09,Sunday,68,Maintenance,2,2,400,0
+2025-11-09,Sunday,68,Security,2,4,600,1
+2025-11-10,Monday,57,Front Desk,3,4,1000,0
+2025-11-10,Monday,57,Housekeeping,5,7,1260,1
+2025-11-10,Monday,57,Restaurant,4,4,880,0
+2025-11-10,Monday,57,Maintenance,2,2,400,0
+2025-11-10,Monday,57,Security,2,3,450,0
+2025-11-11,Tuesday,54,Front Desk,3,5,1250,1
+2025-11-11,Tuesday,54,Housekeeping,5,5,900,0
+2025-11-11,Tuesday,54,Restaurant,4,5,1100,0
+2025-11-11,Tuesday,54,Maintenance,2,4,800,1
+2025-11-11,Tuesday,54,Security,2,4,600,1
+2025-11-12,Wednesday,63,Front Desk,3,4,1000,0
+2025-11-12,Wednesday,63,Housekeeping,5,7,1260,1
+2025-11-12,Wednesday,63,Restaurant,4,4,880,0
+2025-11-12,Wednesday,63,Maintenance,2,2,400,0
+2025-11-12,Wednesday,63,Security,2,3,450,0
+2025-11-13,Thursday,61,Front Desk,3,3,750,0
+2025-11-13,Thursday,61,Housekeeping,5,7,1260,1
+2025-11-13,Thursday,61,Restaurant,4,4,880,0
+2025-11-13,Thursday,61,Maintenance,2,2,400,0
+2025-11-13,Thursday,61,Security,2,2,300,0
+2025-11-14,Friday,49,Front Desk,3,3,750,0
+2025-11-14,Friday,49,Housekeeping,5,7,1260,1
+2025-11-14,Friday,49,Restaurant,4,4,880,0
+2025-11-14,Friday,49,Maintenance,2,4,800,1
+2025-11-14,Friday,49,Security,2,4,600,1
+2025-11-15,Saturday,75,Front Desk,3,4,1000,0
+2025-11-15,Saturday,75,Housekeeping,6,6,1080,0
+2025-11-15,Saturday,75,Restaurant,4,4,880,0
+2025-11-15,Saturday,75,Maintenance,2,2,400,0
+2025-11-15,Saturday,75,Security,2,2,300,0
+2025-11-16,Sunday,67,Front Desk,3,4,1000,0
+2025-11-16,Sunday,67,Housekeeping,5,6,1080,0
+2025-11-16,Sunday,67,Restaurant,4,5,1100,0
+2025-11-16,Sunday,67,Maintenance,2,2,400,0
+2025-11-16,Sunday,67,Security,2,2,300,0
+2025-11-17,Monday,57,Front Desk,3,3,750,0
+2025-11-17,Monday,57,Housekeeping,5,5,900,0
+2025-11-17,Monday,57,Restaurant,4,5,1100,0
+2025-11-17,Monday,57,Maintenance,2,4,800,1
+2025-11-17,Monday,57,Security,2,2,300,0
+2025-11-18,Tuesday,55,Front Desk,3,3,750,0
+2025-11-18,Tuesday,55,Housekeeping,5,5,900,0
+2025-11-18,Tuesday,55,Restaurant,4,4,880,0
+2025-11-18,Tuesday,55,Maintenance,2,4,800,1
+2025-11-18,Tuesday,55,Security,2,3,450,0
+2025-11-19,Wednesday,57,Front Desk,3,4,1000,0
+2025-11-19,Wednesday,57,Housekeeping,5,6,1080,0
+2025-11-19,Wednesday,57,Restaurant,4,4,880,0
+2025-11-19,Wednesday,57,Maintenance,2,3,600,0
+2025-11-19,Wednesday,57,Security,2,2,300,0
+2025-11-20,Thursday,60,Front Desk,3,3,750,0
+2025-11-20,Thursday,60,Housekeeping,5,5,900,0
+2025-11-20,Thursday,60,Restaurant,4,6,1320,1
+2025-11-20,Thursday,60,Maintenance,2,4,800,1
+2025-11-20,Thursday,60,Security,2,2,300,0
+2025-11-21,Friday,60,Front Desk,3,3,750,0
+2025-11-21,Friday,60,Housekeeping,5,5,900,0
+2025-11-21,Friday,60,Restaurant,4,4,880,0
+2025-11-21,Friday,60,Maintenance,2,2,400,0
+2025-11-21,Friday,60,Security,2,2,300,0
+2025-11-22,Saturday,59,Front Desk,3,3,750,0
+2025-11-22,Saturday,59,Housekeeping,5,5,900,0
+2025-11-22,Saturday,59,Restaurant,4,5,1100,0
+2025-11-22,Saturday,59,Maintenance,2,2,400,0
+2025-11-22,Saturday,59,Security,2,3,450,0
+2025-11-23,Sunday,71,Front Desk,3,5,1250,1
+2025-11-23,Sunday,71,Housekeeping,5,7,1260,1
+2025-11-23,Sunday,71,Restaurant,4,4,880,0
+2025-11-23,Sunday,71,Maintenance,2,2,400,0
+2025-11-23,Sunday,71,Security,2,3,450,0
+2025-11-24,Monday,59,Front Desk,3,4,1000,0
+2025-11-24,Monday,59,Housekeeping,5,5,900,0
+2025-11-24,Monday,59,Restaurant,4,4,880,0
+2025-11-24,Monday,59,Maintenance,2,2,400,0
+2025-11-24,Monday,59,Security,2,4,600,1
+2025-11-25,Tuesday,55,Front Desk,3,5,1250,1
+2025-11-25,Tuesday,55,Housekeeping,5,5,900,0
+2025-11-25,Tuesday,55,Restaurant,4,4,880,0
+2025-11-25,Tuesday,55,Maintenance,2,4,800,1
+2025-11-25,Tuesday,55,Security,2,3,450,0
+2025-11-26,Wednesday,62,Front Desk,3,4,1000,0
+2025-11-26,Wednesday,62,Housekeeping,5,5,900,0
+2025-11-26,Wednesday,62,Restaurant,4,4,880,0
+2025-11-26,Wednesday,62,Maintenance,2,3,600,0
+2025-11-26,Wednesday,62,Security,2,3,450,0
+2025-11-27,Thursday,58,Front Desk,3,5,1250,1
+2025-11-27,Thursday,58,Housekeeping,5,6,1080,0
+2025-11-27,Thursday,58,Restaurant,4,4,880,0
+2025-11-27,Thursday,58,Maintenance,2,2,400,0
+2025-11-27,Thursday,58,Security,2,4,600,1
+2025-11-28,Friday,57,Front Desk,3,3,750,0
+2025-11-28,Friday,57,Housekeeping,5,5,900,0
+2025-11-28,Friday,57,Restaurant,4,6,1320,1
+2025-11-28,Friday,57,Maintenance,2,4,800,1
+2025-11-28,Friday,57,Security,2,4,600,1
+2025-11-29,Saturday,68,Front Desk,3,5,1250,1
+2025-11-29,Saturday,68,Housekeeping,5,6,1080,0
+2025-11-29,Saturday,68,Restaurant,4,4,880,0
+2025-11-29,Saturday,68,Maintenance,2,4,800,1
+2025-11-29,Saturday,68,Security,2,2,300,0
+2025-11-30,Sunday,68,Front Desk,3,3,750,0
+2025-11-30,Sunday,68,Housekeeping,5,5,900,0
+2025-11-30,Sunday,68,Restaurant,4,4,880,0
+2025-11-30,Sunday,68,Maintenance,2,3,600,0
+2025-11-30,Sunday,68,Security,2,3,450,0
+2025-12-01,Monday,60,Front Desk,3,5,1250,1
+2025-12-01,Monday,60,Housekeeping,5,5,900,0
+2025-12-01,Monday,60,Restaurant,4,6,1320,1
+2025-12-01,Monday,60,Maintenance,2,2,400,0
+2025-12-01,Monday,60,Security,2,4,600,1
+2025-12-02,Tuesday,54,Front Desk,3,3,750,0
+2025-12-02,Tuesday,54,Housekeeping,5,5,900,0
+2025-12-02,Tuesday,54,Restaurant,4,4,880,0
+2025-12-02,Tuesday,54,Maintenance,2,3,600,0
+2025-12-02,Tuesday,54,Security,2,4,600,1
+2025-12-03,Wednesday,58,Front Desk,3,5,1250,1
+2025-12-03,Wednesday,58,Housekeeping,5,6,1080,0
+2025-12-03,Wednesday,58,Restaurant,4,5,1100,0
+2025-12-03,Wednesday,58,Maintenance,2,3,600,0
+2025-12-03,Wednesday,58,Security,2,2,300,0
+2025-12-04,Thursday,59,Front Desk,3,4,1000,0
+2025-12-04,Thursday,59,Housekeeping,5,5,900,0
+2025-12-04,Thursday,59,Restaurant,4,6,1320,1
+2025-12-04,Thursday,59,Maintenance,2,4,800,1
+2025-12-04,Thursday,59,Security,2,2,300,0
+2025-12-05,Friday,55,Front Desk,3,5,1250,1
+2025-12-05,Friday,55,Housekeeping,5,6,1080,0
+2025-12-05,Friday,55,Restaurant,4,6,1320,1
+2025-12-05,Friday,55,Maintenance,2,2,400,0
+2025-12-05,Friday,55,Security,2,3,450,0
+2025-12-06,Saturday,60,Front Desk,3,3,750,0
+2025-12-06,Saturday,60,Housekeeping,5,5,900,0
+2025-12-06,Saturday,60,Restaurant,4,5,1100,0
+2025-12-06,Saturday,60,Maintenance,2,4,800,1
+2025-12-06,Saturday,60,Security,2,2,300,0
+2025-12-07,Sunday,69,Front Desk,3,4,1000,0
+2025-12-07,Sunday,69,Housekeeping,5,5,900,0
+2025-12-07,Sunday,69,Restaurant,4,4,880,0
+2025-12-07,Sunday,69,Maintenance,2,3,600,0
+2025-12-07,Sunday,69,Security,2,3,450,0
+2025-12-08,Monday,60,Front Desk,3,3,750,0
+2025-12-08,Monday,60,Housekeeping,5,5,900,0
+2025-12-08,Monday,60,Restaurant,4,4,880,0
+2025-12-08,Monday,60,Maintenance,2,3,600,0
+2025-12-08,Monday,60,Security,2,2,300,0
+2025-12-09,Tuesday,59,Front Desk,3,4,1000,0
+2025-12-09,Tuesday,59,Housekeeping,5,7,1260,1
+2025-12-09,Tuesday,59,Restaurant,4,4,880,0
+2025-12-09,Tuesday,59,Maintenance,2,2,400,0
+2025-12-09,Tuesday,59,Security,2,3,450,0
+2025-12-10,Wednesday,59,Front Desk,3,4,1000,0
+2025-12-10,Wednesday,59,Housekeeping,5,6,1080,0
+2025-12-10,Wednesday,59,Restaurant,4,4,880,0
+2025-12-10,Wednesday,59,Maintenance,2,2,400,0
+2025-12-10,Wednesday,59,Security,2,2,300,0
+2025-12-11,Thursday,54,Front Desk,3,5,1250,1
+2025-12-11,Thursday,54,Housekeeping,5,6,1080,0
+2025-12-11,Thursday,54,Restaurant,4,4,880,0
+2025-12-11,Thursday,54,Maintenance,2,4,800,1
+2025-12-11,Thursday,54,Security,2,3,450,0
+2025-12-12,Friday,55,Front Desk,3,3,750,0
+2025-12-12,Friday,55,Housekeeping,5,5,900,0
+2025-12-12,Friday,55,Restaurant,4,5,1100,0
+2025-12-12,Friday,55,Maintenance,2,3,600,0
+2025-12-12,Friday,55,Security,2,3,450,0
+2025-12-13,Saturday,72,Front Desk,3,3,750,0
+2025-12-13,Saturday,72,Housekeeping,5,7,1260,1
+2025-12-13,Saturday,72,Restaurant,4,4,880,0
+2025-12-13,Saturday,72,Maintenance,2,2,400,0
+2025-12-13,Saturday,72,Security,2,3,450,0
+2025-12-14,Sunday,73,Front Desk,3,3,750,0
+2025-12-14,Sunday,73,Housekeeping,5,6,1080,0
+2025-12-14,Sunday,73,Restaurant,4,6,1320,1
+2025-12-14,Sunday,73,Maintenance,2,2,400,0
+2025-12-14,Sunday,73,Security,2,2,300,0
+2025-12-15,Monday,54,Front Desk,3,5,1250,1
+2025-12-15,Monday,54,Housekeeping,5,7,1260,1
+2025-12-15,Monday,54,Restaurant,4,4,880,0
+2025-12-15,Monday,54,Maintenance,2,2,400,0
+2025-12-15,Monday,54,Security,2,2,300,0
+2025-12-16,Tuesday,61,Front Desk,3,5,1250,1
+2025-12-16,Tuesday,61,Housekeeping,5,5,900,0
+2025-12-16,Tuesday,61,Restaurant,4,6,1320,1
+2025-12-16,Tuesday,61,Maintenance,2,2,400,0
+2025-12-16,Tuesday,61,Security,2,4,600,1
+2025-12-17,Wednesday,55,Front Desk,3,3,750,0
+2025-12-17,Wednesday,55,Housekeeping,5,6,1080,0
+2025-12-17,Wednesday,55,Restaurant,4,6,1320,1
+2025-12-17,Wednesday,55,Maintenance,2,4,800,1
+2025-12-17,Wednesday,55,Security,2,3,450,0
+2025-12-18,Thursday,61,Front Desk,3,5,1250,1
+2025-12-18,Thursday,61,Housekeeping,5,7,1260,1
+2025-12-18,Thursday,61,Restaurant,4,6,1320,1
+2025-12-18,Thursday,61,Maintenance,2,4,800,1
+2025-12-18,Thursday,61,Security,2,4,600,1
+2025-12-19,Friday,57,Front Desk,3,3,750,0
+2025-12-19,Friday,57,Housekeeping,5,5,900,0
+2025-12-19,Friday,57,Restaurant,4,4,880,0
+2025-12-19,Friday,57,Maintenance,2,4,800,1
+2025-12-19,Friday,57,Security,2,4,600,1
+2025-12-20,Saturday,65,Front Desk,3,3,750,0
+2025-12-20,Saturday,65,Housekeeping,5,5,900,0
+2025-12-20,Saturday,65,Restaurant,4,4,880,0
+2025-12-20,Saturday,65,Maintenance,2,4,800,1
+2025-12-20,Saturday,65,Security,2,4,600,1
+2025-12-21,Sunday,67,Front Desk,3,3,750,0
+2025-12-21,Sunday,67,Housekeeping,5,5,900,0
+2025-12-21,Sunday,67,Restaurant,4,5,1100,0
+2025-12-21,Sunday,67,Maintenance,2,2,400,0
+2025-12-21,Sunday,67,Security,2,4,600,1
+2025-12-22,Monday,61,Front Desk,3,3,750,0
+2025-12-22,Monday,61,Housekeeping,5,5,900,0
+2025-12-22,Monday,61,Restaurant,4,5,1100,0
+2025-12-22,Monday,61,Maintenance,2,3,600,0
+2025-12-22,Monday,61,Security,2,2,300,0
+2025-12-23,Tuesday,54,Front Desk,3,3,750,0
+2025-12-23,Tuesday,54,Housekeeping,5,5,900,0
+2025-12-23,Tuesday,54,Restaurant,4,5,1100,0
+2025-12-23,Tuesday,54,Maintenance,2,3,600,0
+2025-12-23,Tuesday,54,Security,2,3,450,0
+2025-12-24,Wednesday,52,Front Desk,3,4,1000,0
+2025-12-24,Wednesday,52,Housekeeping,5,6,1080,0
+2025-12-24,Wednesday,52,Restaurant,4,6,1320,1
+2025-12-24,Wednesday,52,Maintenance,2,2,400,0
+2025-12-24,Wednesday,52,Security,2,2,300,0
+2025-12-25,Thursday,50,Front Desk,3,3,750,0
+2025-12-25,Thursday,50,Housekeeping,5,7,1260,1
+2025-12-25,Thursday,50,Restaurant,4,4,880,0
+2025-12-25,Thursday,50,Maintenance,2,3,600,0
+2025-12-25,Thursday,50,Security,2,3,450,0
+2025-12-26,Friday,53,Front Desk,3,3,750,0
+2025-12-26,Friday,53,Housekeeping,5,5,900,0
+2025-12-26,Friday,53,Restaurant,4,6,1320,1
+2025-12-26,Friday,53,Maintenance,2,2,400,0
+2025-12-26,Friday,53,Security,2,2,300,0
+2025-12-27,Saturday,73,Front Desk,3,4,1000,0
+2025-12-27,Saturday,73,Housekeeping,5,5,900,0
+2025-12-27,Saturday,73,Restaurant,4,4,880,0
+2025-12-27,Saturday,73,Maintenance,2,4,800,1
+2025-12-27,Saturday,73,Security,2,4,600,1
+2025-12-28,Sunday,65,Front Desk,3,4,1000,0
+2025-12-28,Sunday,65,Housekeeping,5,7,1260,1
+2025-12-28,Sunday,65,Restaurant,4,5,1100,0
+2025-12-28,Sunday,65,Maintenance,2,4,800,1
+2025-12-28,Sunday,65,Security,2,4,600,1
+2025-12-29,Monday,52,Front Desk,3,3,750,0
+2025-12-29,Monday,52,Housekeeping,5,5,900,0
+2025-12-29,Monday,52,Restaurant,4,6,1320,1
+2025-12-29,Monday,52,Maintenance,2,4,800,1
+2025-12-29,Monday,52,Security,2,4,600,1
+2025-12-30,Tuesday,58,Front Desk,3,3,750,0
+2025-12-30,Tuesday,58,Housekeeping,5,6,1080,0
+2025-12-30,Tuesday,58,Restaurant,4,4,880,0
+2025-12-30,Tuesday,58,Maintenance,2,4,800,1
+2025-12-30,Tuesday,58,Security,2,4,600,1
+2025-12-31,Wednesday,60,Front Desk,3,3,750,0
+2025-12-31,Wednesday,60,Housekeeping,5,7,1260,1
+2025-12-31,Wednesday,60,Restaurant,4,5,1100,0
+2025-12-31,Wednesday,60,Maintenance,2,2,400,0
+2025-12-31,Wednesday,60,Security,2,4,600,1
